@@ -1,0 +1,19 @@
+[OPTIONS]
+Compatibility=1.1 or later
+Compiled file=Ayuda.chm
+Contents file=C:\Users\Victor\Desktop\CasaEstherNuevoUltraMasChidoringo\CasaEstherNuevoChido\CasaEsther\Ayuda\Table of Contents.hhc
+Default topic=Principal.html
+Display compile progress=No
+Index file=Index.hhk
+Language=0xc0a Español (España, internacional)
+
+
+[FILES]
+Principal.html
+Catalogo\Catalogo.html
+Movimiento\Movimiento.html
+Reporte\ReportePeriodo.html
+Utileria\Utileria.html
+
+[INFOTYPES]
+

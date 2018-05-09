@@ -1,0 +1,99 @@
+C:\Users\Victor\Desktop\CasaEstherNuevoUltraMasChidoringo\CasaEstherNuevoChido\CasaEsther\bin\Release\CasaEsther.exe.config
+C:\Users\Victor\Desktop\CasaEstherNuevoUltraMasChidoringo\CasaEstherNuevoChido\CasaEsther\bin\Release\CasaEsther.exe.manifest
+C:\Users\Victor\Desktop\CasaEstherNuevoUltraMasChidoringo\CasaEstherNuevoChido\CasaEsther\bin\Release\CasaEsther.application
+C:\Users\Victor\Desktop\CasaEstherNuevoUltraMasChidoringo\CasaEstherNuevoChido\CasaEsther\bin\Release\CasaEsther.exe
+C:\Users\Victor\Desktop\CasaEstherNuevoUltraMasChidoringo\CasaEstherNuevoChido\CasaEsther\bin\Release\CasaEsther.pdb
+C:\Users\Victor\Desktop\CasaEstherNuevoUltraMasChidoringo\CasaEstherNuevoChido\CasaEsther\bin\Release\CasaEsther.xml
+C:\Users\Victor\Desktop\CasaEstherNuevoUltraMasChidoringo\CasaEstherNuevoChido\CasaEsther\bin\Release\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Victor\Desktop\CasaEstherNuevoUltraMasChidoringo\CasaEstherNuevoChido\CasaEsther\bin\Release\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Victor\Desktop\CasaEstherNuevoUltraMasChidoringo\CasaEstherNuevoChido\CasaEsther\bin\Release\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Victor\Desktop\CasaEstherNuevoUltraMasChidoringo\CasaEstherNuevoChido\CasaEsther\bin\Release\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Victor\Desktop\CasaEstherNuevoUltraMasChidoringo\CasaEstherNuevoChido\CasaEsther\bin\Release\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Victor\Desktop\CasaEstherNuevoUltraMasChidoringo\CasaEstherNuevoChido\CasaEsther\bin\Release\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Victor\Desktop\CasaEstherNuevoUltraMasChidoringo\CasaEstherNuevoChido\CasaEsther\bin\Release\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Victor\Desktop\CasaEstherNuevoUltraMasChidoringo\CasaEstherNuevoChido\CasaEsther\bin\Release\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Victor\Desktop\CasaEstherNuevoUltraMasChidoringo\CasaEstherNuevoChido\CasaEsther\bin\Release\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Victor\Desktop\CasaEstherNuevoUltraMasChidoringo\CasaEstherNuevoChido\CasaEsther\bin\Release\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Victor\Desktop\CasaEstherNuevoUltraMasChidoringo\CasaEstherNuevoChido\CasaEsther\bin\Release\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Victor\Desktop\CasaEstherNuevoUltraMasChidoringo\CasaEstherNuevoChido\CasaEsther\obj\Release\CasaEsther.vbprojResolveAssemblyReference.cache
+C:\Users\Victor\Desktop\CasaEstherNuevoUltraMasChidoringo\CasaEstherNuevoChido\CasaEsther\obj\Release\CasaEsther.frmRegistroArticulos.resources
+C:\Users\Victor\Desktop\CasaEstherNuevoUltraMasChidoringo\CasaEstherNuevoChido\CasaEsther\obj\Release\CasaEsther.frmRegistroCategorias.resources
+C:\Users\Victor\Desktop\CasaEstherNuevoUltraMasChidoringo\CasaEstherNuevoChido\CasaEsther\obj\Release\CasaEsther.frmUsuarios.resources
+C:\Users\Victor\Desktop\CasaEstherNuevoUltraMasChidoringo\CasaEstherNuevoChido\CasaEsther\obj\Release\CasaEsther.login.resources
+C:\Users\Victor\Desktop\CasaEstherNuevoUltraMasChidoringo\CasaEstherNuevoChido\CasaEsther\obj\Release\CasaEsther.frmAbonos.resources
+C:\Users\Victor\Desktop\CasaEstherNuevoUltraMasChidoringo\CasaEstherNuevoChido\CasaEsther\obj\Release\CasaEsther.frmArticulosApartados.resources
+C:\Users\Victor\Desktop\CasaEstherNuevoUltraMasChidoringo\CasaEstherNuevoChido\CasaEsther\obj\Release\CasaEsther.frmConsultaAbonos.resources
+C:\Users\Victor\Desktop\CasaEstherNuevoUltraMasChidoringo\CasaEstherNuevoChido\CasaEsther\obj\Release\CasaEsther.frmApartados.resources
+C:\Users\Victor\Desktop\CasaEstherNuevoUltraMasChidoringo\CasaEstherNuevoChido\CasaEsther\obj\Release\CasaEsther.frmConsIndApartado.resources
+C:\Users\Victor\Desktop\CasaEstherNuevoUltraMasChidoringo\CasaEstherNuevoChido\CasaEsther\obj\Release\CasaEsther.frmConsultaCompra.resources
+C:\Users\Victor\Desktop\CasaEstherNuevoUltraMasChidoringo\CasaEstherNuevoChido\CasaEsther\obj\Release\CasaEsther.frmRegistroCompraArticulo.resources
+C:\Users\Victor\Desktop\CasaEstherNuevoUltraMasChidoringo\CasaEstherNuevoChido\CasaEsther\obj\Release\CasaEsther.frmRegistroEmpleados.resources
+C:\Users\Victor\Desktop\CasaEstherNuevoUltraMasChidoringo\CasaEstherNuevoChido\CasaEsther\obj\Release\CasaEsther.frmPrincipal.resources
+C:\Users\Victor\Desktop\CasaEstherNuevoUltraMasChidoringo\CasaEstherNuevoChido\CasaEsther\obj\Release\CasaEsther.frmRegistroModelos.resources
+C:\Users\Victor\Desktop\CasaEstherNuevoUltraMasChidoringo\CasaEstherNuevoChido\CasaEsther\obj\Release\CasaEsther.frmConsultaVentas.resources
+C:\Users\Victor\Desktop\CasaEstherNuevoUltraMasChidoringo\CasaEstherNuevoChido\CasaEsther\obj\Release\CasaEsther.Resources.resources
+C:\Users\Victor\Desktop\CasaEstherNuevoUltraMasChidoringo\CasaEstherNuevoChido\CasaEsther\obj\Release\CasaEsther.frmRegistroProveedores.resources
+C:\Users\Victor\Desktop\CasaEstherNuevoUltraMasChidoringo\CasaEstherNuevoChido\CasaEsther\obj\Release\CasaEsther.frmRegistroVentas.resources
+C:\Users\Victor\Desktop\CasaEstherNuevoUltraMasChidoringo\CasaEstherNuevoChido\CasaEsther\obj\Release\CasaEsther.frmNombres.resources
+C:\Users\Victor\Desktop\CasaEstherNuevoUltraMasChidoringo\CasaEstherNuevoChido\CasaEsther\obj\Release\CasaEsther.frmPeriodo.resources
+C:\Users\Victor\Desktop\CasaEstherNuevoUltraMasChidoringo\CasaEstherNuevoChido\CasaEsther\obj\Release\CasaEsther.frmReporte.resources
+C:\Users\Victor\Desktop\CasaEstherNuevoUltraMasChidoringo\CasaEstherNuevoChido\CasaEsther\obj\Release\CasaEsther.frmBackup.resources
+C:\Users\Victor\Desktop\CasaEstherNuevoUltraMasChidoringo\CasaEstherNuevoChido\CasaEsther\obj\Release\CasaEsther.frmHistoricos.resources
+C:\Users\Victor\Desktop\CasaEstherNuevoUltraMasChidoringo\CasaEstherNuevoChido\CasaEsther\obj\Release\CasaEsther.frmRestauracion.resources
+C:\Users\Victor\Desktop\CasaEstherNuevoUltraMasChidoringo\CasaEstherNuevoChido\CasaEsther\obj\Release\CasaEsther.vbproj.GenerateResource.Cache
+C:\Users\Victor\Desktop\CasaEstherNuevoUltraMasChidoringo\CasaEstherNuevoChido\CasaEsther\obj\Release\RdlCompile.cache
+C:\Users\Victor\Desktop\CasaEstherNuevoUltraMasChidoringo\CasaEstherNuevoChido\CasaEsther\obj\Release\RdlCompile.compiled
+C:\Users\Victor\Desktop\CasaEstherNuevoUltraMasChidoringo\CasaEstherNuevoChido\CasaEsther\obj\Release\CasaEsther.exe.manifest
+C:\Users\Victor\Desktop\CasaEstherNuevoUltraMasChidoringo\CasaEstherNuevoChido\CasaEsther\obj\Release\CasaEsther.application
+C:\Users\Victor\Desktop\CasaEstherNuevoUltraMasChidoringo\CasaEstherNuevoChido\CasaEsther\obj\Release\CasaEsther.exe
+C:\Users\Victor\Desktop\CasaEstherNuevoUltraMasChidoringo\CasaEstherNuevoChido\CasaEsther\obj\Release\CasaEsther.xml
+C:\Users\Victor\Desktop\CasaEstherNuevoUltraMasChidoringo\CasaEstherNuevoChido\CasaEsther\obj\Release\CasaEsther.pdb
+C:\Users\Victor\Documents\Ing. en Informática\7. Séptimo Semestre\Sistemas Integrales de Información\Unidad 5\CasaEstherNuevoUltraMasChidoringo\CasaEstherNuevoChido\CasaEsther\bin\Release\CasaEsther.exe.config
+C:\Users\Victor\Documents\Ing. en Informática\7. Séptimo Semestre\Sistemas Integrales de Información\Unidad 5\CasaEstherNuevoUltraMasChidoringo\CasaEstherNuevoChido\CasaEsther\bin\Release\CasaEsther.exe.manifest
+C:\Users\Victor\Documents\Ing. en Informática\7. Séptimo Semestre\Sistemas Integrales de Información\Unidad 5\CasaEstherNuevoUltraMasChidoringo\CasaEstherNuevoChido\CasaEsther\bin\Release\CasaEsther.application
+C:\Users\Victor\Documents\Ing. en Informática\7. Séptimo Semestre\Sistemas Integrales de Información\Unidad 5\CasaEstherNuevoUltraMasChidoringo\CasaEstherNuevoChido\CasaEsther\bin\Release\CasaEsther.exe
+C:\Users\Victor\Documents\Ing. en Informática\7. Séptimo Semestre\Sistemas Integrales de Información\Unidad 5\CasaEstherNuevoUltraMasChidoringo\CasaEstherNuevoChido\CasaEsther\bin\Release\CasaEsther.pdb
+C:\Users\Victor\Documents\Ing. en Informática\7. Séptimo Semestre\Sistemas Integrales de Información\Unidad 5\CasaEstherNuevoUltraMasChidoringo\CasaEstherNuevoChido\CasaEsther\bin\Release\CasaEsther.xml
+C:\Users\Victor\Documents\Ing. en Informática\7. Séptimo Semestre\Sistemas Integrales de Información\Unidad 5\CasaEstherNuevoUltraMasChidoringo\CasaEstherNuevoChido\CasaEsther\bin\Release\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Victor\Documents\Ing. en Informática\7. Séptimo Semestre\Sistemas Integrales de Información\Unidad 5\CasaEstherNuevoUltraMasChidoringo\CasaEstherNuevoChido\CasaEsther\bin\Release\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Victor\Documents\Ing. en Informática\7. Séptimo Semestre\Sistemas Integrales de Información\Unidad 5\CasaEstherNuevoUltraMasChidoringo\CasaEstherNuevoChido\CasaEsther\bin\Release\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Victor\Documents\Ing. en Informática\7. Séptimo Semestre\Sistemas Integrales de Información\Unidad 5\CasaEstherNuevoUltraMasChidoringo\CasaEstherNuevoChido\CasaEsther\bin\Release\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Victor\Documents\Ing. en Informática\7. Séptimo Semestre\Sistemas Integrales de Información\Unidad 5\CasaEstherNuevoUltraMasChidoringo\CasaEstherNuevoChido\CasaEsther\bin\Release\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Victor\Documents\Ing. en Informática\7. Séptimo Semestre\Sistemas Integrales de Información\Unidad 5\CasaEstherNuevoUltraMasChidoringo\CasaEstherNuevoChido\CasaEsther\bin\Release\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Victor\Documents\Ing. en Informática\7. Séptimo Semestre\Sistemas Integrales de Información\Unidad 5\CasaEstherNuevoUltraMasChidoringo\CasaEstherNuevoChido\CasaEsther\bin\Release\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Victor\Documents\Ing. en Informática\7. Séptimo Semestre\Sistemas Integrales de Información\Unidad 5\CasaEstherNuevoUltraMasChidoringo\CasaEstherNuevoChido\CasaEsther\bin\Release\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Victor\Documents\Ing. en Informática\7. Séptimo Semestre\Sistemas Integrales de Información\Unidad 5\CasaEstherNuevoUltraMasChidoringo\CasaEstherNuevoChido\CasaEsther\bin\Release\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Victor\Documents\Ing. en Informática\7. Séptimo Semestre\Sistemas Integrales de Información\Unidad 5\CasaEstherNuevoUltraMasChidoringo\CasaEstherNuevoChido\CasaEsther\bin\Release\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Victor\Documents\Ing. en Informática\7. Séptimo Semestre\Sistemas Integrales de Información\Unidad 5\CasaEstherNuevoUltraMasChidoringo\CasaEstherNuevoChido\CasaEsther\obj\Release\CasaEsther.vbprojResolveAssemblyReference.cache
+C:\Users\Victor\Documents\Ing. en Informática\7. Séptimo Semestre\Sistemas Integrales de Información\Unidad 5\CasaEstherNuevoUltraMasChidoringo\CasaEstherNuevoChido\CasaEsther\obj\Release\CasaEsther.frmRegistroArticulos.resources
+C:\Users\Victor\Documents\Ing. en Informática\7. Séptimo Semestre\Sistemas Integrales de Información\Unidad 5\CasaEstherNuevoUltraMasChidoringo\CasaEstherNuevoChido\CasaEsther\obj\Release\CasaEsther.frmRegistroCategorias.resources
+C:\Users\Victor\Documents\Ing. en Informática\7. Séptimo Semestre\Sistemas Integrales de Información\Unidad 5\CasaEstherNuevoUltraMasChidoringo\CasaEstherNuevoChido\CasaEsther\obj\Release\CasaEsther.frmUsuarios.resources
+C:\Users\Victor\Documents\Ing. en Informática\7. Séptimo Semestre\Sistemas Integrales de Información\Unidad 5\CasaEstherNuevoUltraMasChidoringo\CasaEstherNuevoChido\CasaEsther\obj\Release\CasaEsther.login.resources
+C:\Users\Victor\Documents\Ing. en Informática\7. Séptimo Semestre\Sistemas Integrales de Información\Unidad 5\CasaEstherNuevoUltraMasChidoringo\CasaEstherNuevoChido\CasaEsther\obj\Release\CasaEsther.frmAbonos.resources
+C:\Users\Victor\Documents\Ing. en Informática\7. Séptimo Semestre\Sistemas Integrales de Información\Unidad 5\CasaEstherNuevoUltraMasChidoringo\CasaEstherNuevoChido\CasaEsther\obj\Release\CasaEsther.frmArticulosApartados.resources
+C:\Users\Victor\Documents\Ing. en Informática\7. Séptimo Semestre\Sistemas Integrales de Información\Unidad 5\CasaEstherNuevoUltraMasChidoringo\CasaEstherNuevoChido\CasaEsther\obj\Release\CasaEsther.frmConsultaAbonos.resources
+C:\Users\Victor\Documents\Ing. en Informática\7. Séptimo Semestre\Sistemas Integrales de Información\Unidad 5\CasaEstherNuevoUltraMasChidoringo\CasaEstherNuevoChido\CasaEsther\obj\Release\CasaEsther.frmApartados.resources
+C:\Users\Victor\Documents\Ing. en Informática\7. Séptimo Semestre\Sistemas Integrales de Información\Unidad 5\CasaEstherNuevoUltraMasChidoringo\CasaEstherNuevoChido\CasaEsther\obj\Release\CasaEsther.frmConsIndApartado.resources
+C:\Users\Victor\Documents\Ing. en Informática\7. Séptimo Semestre\Sistemas Integrales de Información\Unidad 5\CasaEstherNuevoUltraMasChidoringo\CasaEstherNuevoChido\CasaEsther\obj\Release\CasaEsther.frmConsultaCompra.resources
+C:\Users\Victor\Documents\Ing. en Informática\7. Séptimo Semestre\Sistemas Integrales de Información\Unidad 5\CasaEstherNuevoUltraMasChidoringo\CasaEstherNuevoChido\CasaEsther\obj\Release\CasaEsther.frmRegistroCompraArticulo.resources
+C:\Users\Victor\Documents\Ing. en Informática\7. Séptimo Semestre\Sistemas Integrales de Información\Unidad 5\CasaEstherNuevoUltraMasChidoringo\CasaEstherNuevoChido\CasaEsther\obj\Release\CasaEsther.frmRegistroEmpleados.resources
+C:\Users\Victor\Documents\Ing. en Informática\7. Séptimo Semestre\Sistemas Integrales de Información\Unidad 5\CasaEstherNuevoUltraMasChidoringo\CasaEstherNuevoChido\CasaEsther\obj\Release\CasaEsther.frmPrincipal.resources
+C:\Users\Victor\Documents\Ing. en Informática\7. Séptimo Semestre\Sistemas Integrales de Información\Unidad 5\CasaEstherNuevoUltraMasChidoringo\CasaEstherNuevoChido\CasaEsther\obj\Release\CasaEsther.frmRegistroModelos.resources
+C:\Users\Victor\Documents\Ing. en Informática\7. Séptimo Semestre\Sistemas Integrales de Información\Unidad 5\CasaEstherNuevoUltraMasChidoringo\CasaEstherNuevoChido\CasaEsther\obj\Release\CasaEsther.frmConsultaVentas.resources
+C:\Users\Victor\Documents\Ing. en Informática\7. Séptimo Semestre\Sistemas Integrales de Información\Unidad 5\CasaEstherNuevoUltraMasChidoringo\CasaEstherNuevoChido\CasaEsther\obj\Release\CasaEsther.Resources.resources
+C:\Users\Victor\Documents\Ing. en Informática\7. Séptimo Semestre\Sistemas Integrales de Información\Unidad 5\CasaEstherNuevoUltraMasChidoringo\CasaEstherNuevoChido\CasaEsther\obj\Release\CasaEsther.frmRegistroProveedores.resources
+C:\Users\Victor\Documents\Ing. en Informática\7. Séptimo Semestre\Sistemas Integrales de Información\Unidad 5\CasaEstherNuevoUltraMasChidoringo\CasaEstherNuevoChido\CasaEsther\obj\Release\CasaEsther.frmRegistroVentas.resources
+C:\Users\Victor\Documents\Ing. en Informática\7. Séptimo Semestre\Sistemas Integrales de Información\Unidad 5\CasaEstherNuevoUltraMasChidoringo\CasaEstherNuevoChido\CasaEsther\obj\Release\CasaEsther.frmNombres.resources
+C:\Users\Victor\Documents\Ing. en Informática\7. Séptimo Semestre\Sistemas Integrales de Información\Unidad 5\CasaEstherNuevoUltraMasChidoringo\CasaEstherNuevoChido\CasaEsther\obj\Release\CasaEsther.frmPeriodo.resources
+C:\Users\Victor\Documents\Ing. en Informática\7. Séptimo Semestre\Sistemas Integrales de Información\Unidad 5\CasaEstherNuevoUltraMasChidoringo\CasaEstherNuevoChido\CasaEsther\obj\Release\CasaEsther.frmReporte.resources
+C:\Users\Victor\Documents\Ing. en Informática\7. Séptimo Semestre\Sistemas Integrales de Información\Unidad 5\CasaEstherNuevoUltraMasChidoringo\CasaEstherNuevoChido\CasaEsther\obj\Release\CasaEsther.frmBackup.resources
+C:\Users\Victor\Documents\Ing. en Informática\7. Séptimo Semestre\Sistemas Integrales de Información\Unidad 5\CasaEstherNuevoUltraMasChidoringo\CasaEstherNuevoChido\CasaEsther\obj\Release\CasaEsther.frmHistoricos.resources
+C:\Users\Victor\Documents\Ing. en Informática\7. Séptimo Semestre\Sistemas Integrales de Información\Unidad 5\CasaEstherNuevoUltraMasChidoringo\CasaEstherNuevoChido\CasaEsther\obj\Release\CasaEsther.frmRestauracion.resources
+C:\Users\Victor\Documents\Ing. en Informática\7. Séptimo Semestre\Sistemas Integrales de Información\Unidad 5\CasaEstherNuevoUltraMasChidoringo\CasaEstherNuevoChido\CasaEsther\obj\Release\CasaEsther.vbproj.GenerateResource.cache
+C:\Users\Victor\Documents\Ing. en Informática\7. Séptimo Semestre\Sistemas Integrales de Información\Unidad 5\CasaEstherNuevoUltraMasChidoringo\CasaEstherNuevoChido\CasaEsther\obj\Release\CasaEsther.vbproj.CoreCompileInputs.cache
+C:\Users\Victor\Documents\Ing. en Informática\7. Séptimo Semestre\Sistemas Integrales de Información\Unidad 5\CasaEstherNuevoUltraMasChidoringo\CasaEstherNuevoChido\CasaEsther\obj\Release\CasaEsther.exe.manifest
+C:\Users\Victor\Documents\Ing. en Informática\7. Séptimo Semestre\Sistemas Integrales de Información\Unidad 5\CasaEstherNuevoUltraMasChidoringo\CasaEstherNuevoChido\CasaEsther\obj\Release\CasaEsther.application
+C:\Users\Victor\Documents\Ing. en Informática\7. Séptimo Semestre\Sistemas Integrales de Información\Unidad 5\CasaEstherNuevoUltraMasChidoringo\CasaEstherNuevoChido\CasaEsther\obj\Release\CasaEsther.vbproj.CopyComplete
+C:\Users\Victor\Documents\Ing. en Informática\7. Séptimo Semestre\Sistemas Integrales de Información\Unidad 5\CasaEstherNuevoUltraMasChidoringo\CasaEstherNuevoChido\CasaEsther\obj\Release\CasaEsther.exe
+C:\Users\Victor\Documents\Ing. en Informática\7. Séptimo Semestre\Sistemas Integrales de Información\Unidad 5\CasaEstherNuevoUltraMasChidoringo\CasaEstherNuevoChido\CasaEsther\obj\Release\CasaEsther.xml
+C:\Users\Victor\Documents\Ing. en Informática\7. Séptimo Semestre\Sistemas Integrales de Información\Unidad 5\CasaEstherNuevoUltraMasChidoringo\CasaEstherNuevoChido\CasaEsther\obj\Release\CasaEsther.pdb

@@ -1,0 +1,537 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{DB11C415-3EDB-4CBC-9B73-4F7CFA03663B}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>CasaEsther.My.MyApplication</StartupObject>
+    <RootNamespace>CasaEsther</RootNamespace>
+    <AssemblyName>CasaEsther</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>C:\Users\Victor\Desktop\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>10</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>CasaEsther.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>CasaEsther.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>BDE6DAA7BA46A75F47EF3412943F0565D091C384</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestKeyFile>CasaEsther_ClaveTemporal.pfx</ManifestKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>true</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>true</SignManifests>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.ReportViewer.Common, Version=11.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91" />
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=11.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.configuration" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Net.Http" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+    <Import Include="System.Threading.Tasks" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="CasaEstherDataSet1.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>CasaEstherDataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="CasaEstherDataSet2.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>CasaEstherDataSet2.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="CasaEstherDataSet3.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>CasaEstherDataSet3.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="CasaEstherDataSet4.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>CasaEstherDataSet4.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="CasaEstherDataSet4.vb">
+      <DependentUpon>CasaEstherDataSet4.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Catalogos\Articulos\frmRegistroArticulos.Designer.vb">
+      <DependentUpon>frmRegistroArticulos.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Catalogos\Articulos\frmRegistroArticulos.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CasaEstherDataSet.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>CasaEstherDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Catalogos\Categorias\frmRegistroCategorias.Designer.vb">
+      <DependentUpon>frmRegistroCategorias.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Catalogos\Categorias\frmRegistroCategorias.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Module1.vb" />
+    <Compile Include="frmUsuarios.Designer.vb">
+      <DependentUpon>frmUsuarios.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmUsuarios.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="login.Designer.vb">
+      <DependentUpon>login.vb</DependentUpon>
+    </Compile>
+    <Compile Include="login.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Movimientos\Abonos\frmAbonos.Designer.vb">
+      <DependentUpon>frmAbonos.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Movimientos\Abonos\frmAbonos.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Movimientos\Abonos\frmArticulosApartados.Designer.vb">
+      <DependentUpon>frmArticulosApartados.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Movimientos\Abonos\frmArticulosApartados.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Movimientos\Abonos\frmConsultaAbonos.Designer.vb">
+      <DependentUpon>frmConsultaAbonos.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Movimientos\Abonos\frmConsultaAbonos.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Movimientos\Apartado\frmApartados.Designer.vb">
+      <DependentUpon>frmApartados.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Movimientos\Apartado\frmApartados.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Movimientos\Apartado\frmConsultaApartados.Designer.vb">
+      <DependentUpon>frmConsultaApartados.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Movimientos\Apartado\frmConsultaApartados.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Movimientos\CompraArticulo\frmConsultaCompra.Designer.vb">
+      <DependentUpon>frmConsultaCompra.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Movimientos\CompraArticulo\frmConsultaCompra.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Movimientos\CompraArticulo\frmRegistroCompraArticulo.Designer.vb">
+      <DependentUpon>frmRegistroCompraArticulo.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Movimientos\CompraArticulo\frmRegistroCompraArticulo.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Catalogos\Empleados\frmRegistroEmpleados.Designer.vb">
+      <DependentUpon>frmRegistroEmpleados.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Catalogos\Empleados\frmRegistroEmpleados.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPrincipal.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPrincipal.Designer.vb">
+      <DependentUpon>frmPrincipal.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Catalogos\Modelos\frmRegistroModelos.Designer.vb">
+      <DependentUpon>frmRegistroModelos.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Catalogos\Modelos\frmRegistroModelos.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Movimientos\Ventas\frmConsultaVentas.Designer.vb">
+      <DependentUpon>frmConsultaVentas.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Movimientos\Ventas\frmConsultaVentas.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="Catalogos\Proveedores\frmRegistroProveedores.Designer.vb">
+      <DependentUpon>frmRegistroProveedores.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Catalogos\Proveedores\frmRegistroProveedores.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Movimientos\Ventas\frmRegistroVentas.Designer.vb">
+      <DependentUpon>frmRegistroVentas.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Movimientos\Ventas\frmRegistroVentas.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reportes\frmNombres.Designer.vb">
+      <DependentUpon>frmNombres.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Reportes\frmNombres.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reportes\frmPeriodo.Designer.vb">
+      <DependentUpon>frmPeriodo.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Reportes\frmPeriodo.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reportes\frmReporte.Designer.vb">
+      <DependentUpon>frmReporte.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Reportes\frmReporte.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Utilerias\frmBackup.Designer.vb">
+      <DependentUpon>frmBackup.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Utilerias\frmBackup.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Utilerias\frmHistoricos.Designer.vb">
+      <DependentUpon>frmHistoricos.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Utilerias\frmHistoricos.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Utilerias\frmRestauracion.Designer.vb">
+      <DependentUpon>frmRestauracion.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Utilerias\frmRestauracion.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Reportes\ApartadoPorClienteEnUnPeriodo.rdlc" />
+    <EmbeddedResource Include="Reportes\ApartadosPorCliente.rdlc" />
+    <EmbeddedResource Include="Catalogos\Articulos\frmRegistroArticulos.resx">
+      <DependentUpon>frmRegistroArticulos.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Catalogos\Categorias\frmRegistroCategorias.resx">
+      <DependentUpon>frmRegistroCategorias.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmUsuarios.resx">
+      <DependentUpon>frmUsuarios.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="login.resx">
+      <DependentUpon>login.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Movimientos\Abonos\frmAbonos.resx">
+      <DependentUpon>frmAbonos.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Movimientos\Abonos\frmArticulosApartados.resx">
+      <DependentUpon>frmArticulosApartados.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Movimientos\Abonos\frmConsultaAbonos.resx">
+      <DependentUpon>frmConsultaAbonos.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Movimientos\Apartado\frmApartados.resx">
+      <DependentUpon>frmApartados.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Movimientos\Apartado\frmConsultaApartados.resx">
+      <DependentUpon>frmConsultaApartados.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Movimientos\CompraArticulo\frmConsultaCompra.resx">
+      <DependentUpon>frmConsultaCompra.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Movimientos\CompraArticulo\frmRegistroCompraArticulo.resx">
+      <DependentUpon>frmRegistroCompraArticulo.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Catalogos\Empleados\frmRegistroEmpleados.resx">
+      <DependentUpon>frmRegistroEmpleados.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPrincipal.resx">
+      <DependentUpon>frmPrincipal.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Catalogos\Modelos\frmRegistroModelos.resx">
+      <DependentUpon>frmRegistroModelos.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Movimientos\Ventas\frmConsultaVentas.resx">
+      <DependentUpon>frmConsultaVentas.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Catalogos\Proveedores\frmRegistroProveedores.resx">
+      <DependentUpon>frmRegistroProveedores.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Movimientos\Ventas\frmRegistroVentas.resx">
+      <DependentUpon>frmRegistroVentas.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reportes\ApartadoPorPeriodo.rdlc" />
+    <EmbeddedResource Include="Reportes\frmNombres.resx">
+      <DependentUpon>frmNombres.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reportes\VentaPorEmpleado.rdlc" />
+    <EmbeddedResource Include="Reportes\VentaPorPeriodo.rdlc" />
+    <EmbeddedResource Include="Reportes\CompraPorPeriodo.rdlc" />
+    <EmbeddedResource Include="Reportes\ComprasPorProveedor.rdlc" />
+    <EmbeddedResource Include="Reportes\frmPeriodo.resx">
+      <DependentUpon>frmPeriodo.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reportes\frmReporte.resx">
+      <DependentUpon>frmReporte.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reportes\ReporteArticulos.rdlc" />
+    <EmbeddedResource Include="Reportes\ReporteClientes.rdlc" />
+    <EmbeddedResource Include="Reportes\ReporteEmpleados.rdlc" />
+    <EmbeddedResource Include="Reportes\ReporteProveedores.rdlc" />
+    <EmbeddedResource Include="Utilerias\frmBackup.resx">
+      <DependentUpon>frmBackup.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Utilerias\frmHistoricos.resx">
+      <DependentUpon>frmHistoricos.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Utilerias\frmRestauracion.resx">
+      <DependentUpon>frmRestauracion.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="CasaEstherDataSet.xsc">
+      <DependentUpon>CasaEstherDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="CasaEstherDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>CasaEstherDataSet.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="CasaEstherDataSet.xss">
+      <DependentUpon>CasaEstherDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="CasaEstherDataSet1.xsc">
+      <DependentUpon>CasaEstherDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="CasaEstherDataSet1.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>CasaEstherDataSet1.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="CasaEstherDataSet1.xss">
+      <DependentUpon>CasaEstherDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="CasaEstherDataSet2.xsc">
+      <DependentUpon>CasaEstherDataSet2.xsd</DependentUpon>
+    </None>
+    <None Include="CasaEstherDataSet2.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>CasaEstherDataSet2.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="CasaEstherDataSet2.xss">
+      <DependentUpon>CasaEstherDataSet2.xsd</DependentUpon>
+    </None>
+    <None Include="CasaEstherDataSet3.xsc">
+      <DependentUpon>CasaEstherDataSet3.xsd</DependentUpon>
+    </None>
+    <None Include="CasaEstherDataSet3.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>CasaEstherDataSet3.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="CasaEstherDataSet3.xss">
+      <DependentUpon>CasaEstherDataSet3.xsd</DependentUpon>
+    </None>
+    <None Include="CasaEstherDataSet4.xsc">
+      <DependentUpon>CasaEstherDataSet4.xsd</DependentUpon>
+    </None>
+    <None Include="CasaEstherDataSet4.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>CasaEstherDataSet4.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="CasaEstherDataSet4.xss">
+      <DependentUpon>CasaEstherDataSet4.xsd</DependentUpon>
+    </None>
+    <None Include="CasaEsther_ClaveTemporal.pfx" />
+    <None Include="ClassDiagram1.cd" />
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.5.2">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.5.2 %28x86 y x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Imagen1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Copia de Seguridad.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Logo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\users.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\key-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Logo1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_plus_1646001.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Modificar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Grabar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Salir.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Camcelar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\RegiCat.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\RegEmplea.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\RegMod.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\RegProvee.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\RegUsu.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ConsCompra.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\RegiApart.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ConsApartados.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\22396616_1707372445960855_1293495544_o.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ConsVentas.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ConsAbonos.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Restauracion.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,541 @@
+C:\Users\Victor\AppData\Local\Temporary Projects\CasaEsther\bin\Debug\CasaEsther.exe.config
+C:\Users\Victor\documents\visual studio 2015\Projects\CasaEsther\CasaEsther\bin\Debug\CasaEsther.exe.config
+C:\Users\Victor\Documents\Visual Studio 2015\Projects\CasaEsther\CasaEsther\bin\Debug\CasaEsther.exe
+C:\Users\Victor\Documents\Visual Studio 2015\Projects\CasaEsther\CasaEsther\bin\Debug\CasaEsther.pdb
+C:\Users\Victor\Documents\Visual Studio 2015\Projects\CasaEsther\CasaEsther\bin\Debug\CasaEsther.xml
+C:\Users\Victor\Documents\Visual Studio 2015\Projects\CasaEsther\CasaEsther\obj\Debug\CasaEsther.vbprojResolveAssemblyReference.cache
+C:\Users\Victor\Documents\Visual Studio 2015\Projects\CasaEsther\CasaEsther\obj\Debug\CasaEsther.Resources.resources
+C:\Users\Victor\Documents\Visual Studio 2015\Projects\CasaEsther\CasaEsther\obj\Debug\CasaEsther.vbproj.GenerateResource.Cache
+C:\Users\Victor\Documents\Visual Studio 2015\Projects\CasaEsther\CasaEsther\obj\Debug\CasaEsther.exe
+C:\Users\Victor\Documents\Visual Studio 2015\Projects\CasaEsther\CasaEsther\obj\Debug\CasaEsther.xml
+C:\Users\Victor\Documents\Visual Studio 2015\Projects\CasaEsther\CasaEsther\obj\Debug\CasaEsther.pdb
+C:\Users\Victor\Documents\Visual Studio 2015\Projects\CasaEsther\CasaEsther\bin\Debug\CasaEsther.exe.manifest
+C:\Users\Victor\Documents\Visual Studio 2015\Projects\CasaEsther\CasaEsther\bin\Debug\CasaEsther.application
+C:\Users\Victor\Documents\Visual Studio 2015\Projects\CasaEsther\CasaEsther\obj\Debug\CasaEsther.exe.manifest
+C:\Users\Victor\Documents\Visual Studio 2015\Projects\CasaEsther\CasaEsther\obj\Debug\CasaEsther.application
+C:\Users\Victor\Documents\Visual Studio 2015\Projects\CasaEsther\CasaEsther\obj\Debug\CasaEsther.Empleados.resources
+C:\Users\Victor\Documents\Visual Studio 2015\Projects\CasaEsther\CasaEsther\obj\Debug\CasaEsther.MenuCasaEsther.resources
+C:\Users\Victor\Documents\Visual Studio 2015\Projects\CasaEsther\CasaEsther\obj\Debug\CasaEsther.Proveedores.resources
+C:\Users\Victor\Documents\Visual Studio 2015\Projects\CasaEsther\CasaEsther\obj\Debug\CasaEsther.Categorias.resources
+C:\Users\Victor\Documents\Visual Studio 2015\Projects\CasaEsther\CasaEsther\obj\Debug\CasaEsther.Modelos.resources
+C:\Users\Victor\Documents\Visual Studio 2015\Projects\CasaEsther\CasaEsther\obj\Debug\CasaEsther.Articulos.resources
+C:\Users\Lucyy\Desktop\CasaEsther (1)\CasaEsther\CasaEsther\bin\Debug\CasaEsther.exe.config
+C:\Users\Lucyy\Desktop\CasaEsther (1)\CasaEsther\CasaEsther\obj\Debug\CasaEsther.exe
+C:\Users\Lucyy\Desktop\CasaEsther (1)\CasaEsther\CasaEsther\obj\Debug\CasaEsther.xml
+C:\Users\Lucyy\Desktop\CasaEsther (1)\CasaEsther\CasaEsther\obj\Debug\CasaEsther.pdb
+C:\Users\Lucyy\Desktop\CasaEsther (1)\CasaEsther\CasaEsther\bin\Debug\CasaEsther.exe.manifest
+C:\Users\Lucyy\Desktop\CasaEsther (1)\CasaEsther\CasaEsther\bin\Debug\CasaEsther.application
+C:\Users\Lucyy\Desktop\CasaEsther (1)\CasaEsther\CasaEsther\bin\Debug\CasaEsther.exe
+C:\Users\Lucyy\Desktop\CasaEsther (1)\CasaEsther\CasaEsther\bin\Debug\CasaEsther.pdb
+C:\Users\Lucyy\Desktop\CasaEsther (1)\CasaEsther\CasaEsther\bin\Debug\CasaEsther.xml
+C:\Users\Lucyy\Desktop\CasaEsther (1)\CasaEsther\CasaEsther\obj\Debug\CasaEsther.vbprojResolveAssemblyReference.cache
+C:\Users\Lucyy\Desktop\CasaEsther (1)\CasaEsther\CasaEsther\obj\Debug\CasaEsther.Articulos.resources
+C:\Users\Lucyy\Desktop\CasaEsther (1)\CasaEsther\CasaEsther\obj\Debug\CasaEsther.Categorias.resources
+C:\Users\Lucyy\Desktop\CasaEsther (1)\CasaEsther\CasaEsther\obj\Debug\CasaEsther.CompraArticulo.resources
+C:\Users\Lucyy\Desktop\CasaEsther (1)\CasaEsther\CasaEsther\obj\Debug\CasaEsther.Empleados.resources
+C:\Users\Lucyy\Desktop\CasaEsther (1)\CasaEsther\CasaEsther\obj\Debug\CasaEsther.MenuCasaEsther.resources
+C:\Users\Lucyy\Desktop\CasaEsther (1)\CasaEsther\CasaEsther\obj\Debug\CasaEsther.Modelos.resources
+C:\Users\Lucyy\Desktop\CasaEsther (1)\CasaEsther\CasaEsther\obj\Debug\CasaEsther.Resources.resources
+C:\Users\Lucyy\Desktop\CasaEsther (1)\CasaEsther\CasaEsther\obj\Debug\CasaEsther.Proveedores.resources
+C:\Users\Lucyy\Desktop\CasaEsther (1)\CasaEsther\CasaEsther\obj\Debug\CasaEsther.vbproj.GenerateResource.Cache
+C:\Users\Lucyy\Desktop\CasaEsther (1)\CasaEsther\CasaEsther\obj\Debug\CasaEsther.exe.manifest
+C:\Users\Lucyy\Desktop\CasaEsther (1)\CasaEsther\CasaEsther\obj\Debug\CasaEsther.application
+C:\Users\Lucyy\Desktop\CasaEsther\CasaEsther\CasaEsther\bin\Debug\CasaEsther.exe.config
+C:\Users\Lucyy\Desktop\CasaEsther\CasaEsther\CasaEsther\obj\Debug\CasaEsther.exe
+C:\Users\Lucyy\Desktop\CasaEsther\CasaEsther\CasaEsther\obj\Debug\CasaEsther.xml
+C:\Users\Lucyy\Desktop\CasaEsther\CasaEsther\CasaEsther\obj\Debug\CasaEsther.pdb
+C:\Users\Victor\Desktop\CasaEsther\CasaEsther\CasaEsther\bin\Debug\CasaEsther.exe.config
+C:\Users\Victor\Desktop\CasaEsther\CasaEsther\CasaEsther\obj\Debug\CasaEsther.exe
+C:\Users\Victor\Desktop\CasaEsther\CasaEsther\CasaEsther\obj\Debug\CasaEsther.xml
+C:\Users\Victor\Desktop\CasaEsther\CasaEsther\CasaEsther\obj\Debug\CasaEsther.pdb
+C:\Users\Victor\Desktop\CasaEsther\CasaEsther\CasaEsther\bin\Debug\CasaEsther.exe.manifest
+C:\Users\Victor\Desktop\CasaEsther\CasaEsther\CasaEsther\bin\Debug\CasaEsther.application
+C:\Users\Victor\Desktop\CasaEsther\CasaEsther\CasaEsther\bin\Debug\CasaEsther.exe
+C:\Users\Victor\Desktop\CasaEsther\CasaEsther\CasaEsther\bin\Debug\CasaEsther.pdb
+C:\Users\Victor\Desktop\CasaEsther\CasaEsther\CasaEsther\bin\Debug\CasaEsther.xml
+C:\Users\Victor\Desktop\CasaEsther\CasaEsther\CasaEsther\obj\Debug\CasaEsther.vbprojResolveAssemblyReference.cache
+C:\Users\Victor\Desktop\CasaEsther\CasaEsther\CasaEsther\obj\Debug\CasaEsther.Resources.resources
+C:\Users\Victor\Desktop\CasaEsther\CasaEsther\CasaEsther\obj\Debug\CasaEsther.vbproj.GenerateResource.Cache
+C:\Users\Victor\Desktop\CasaEsther\CasaEsther\CasaEsther\obj\Debug\CasaEsther.exe.manifest
+C:\Users\Victor\Desktop\CasaEsther\CasaEsther\CasaEsther\obj\Debug\CasaEsther.application
+C:\Users\Victor\Documents\Visual Studio 2015\Projects\CasaEsther\CasaEsther\CasaEsther\bin\Debug\CasaEsther.exe.config
+C:\Users\Victor\Documents\Visual Studio 2015\Projects\CasaEsther\CasaEsther\CasaEsther\obj\Debug\CasaEsther.exe
+C:\Users\Victor\Documents\Visual Studio 2015\Projects\CasaEsther\CasaEsther\CasaEsther\obj\Debug\CasaEsther.xml
+C:\Users\Victor\Documents\Visual Studio 2015\Projects\CasaEsther\CasaEsther\CasaEsther\obj\Debug\CasaEsther.pdb
+C:\Users\Victor\Documents\Visual Studio 2015\Projects\CasaEsther\CasaEsther\CasaEsther\bin\Debug\CasaEsther.exe.manifest
+C:\Users\Victor\Documents\Visual Studio 2015\Projects\CasaEsther\CasaEsther\CasaEsther\bin\Debug\CasaEsther.application
+C:\Users\Victor\Documents\Visual Studio 2015\Projects\CasaEsther\CasaEsther\CasaEsther\bin\Debug\CasaEsther.exe
+C:\Users\Victor\Documents\Visual Studio 2015\Projects\CasaEsther\CasaEsther\CasaEsther\bin\Debug\CasaEsther.pdb
+C:\Users\Victor\Documents\Visual Studio 2015\Projects\CasaEsther\CasaEsther\CasaEsther\bin\Debug\CasaEsther.xml
+C:\Users\Victor\Documents\Visual Studio 2015\Projects\CasaEsther\CasaEsther\CasaEsther\obj\Debug\CasaEsther.vbprojResolveAssemblyReference.cache
+C:\Users\Victor\Documents\Visual Studio 2015\Projects\CasaEsther\CasaEsther\CasaEsther\obj\Debug\CasaEsther.Resources.resources
+C:\Users\Victor\Documents\Visual Studio 2015\Projects\CasaEsther\CasaEsther\CasaEsther\obj\Debug\CasaEsther.vbproj.GenerateResource.Cache
+C:\Users\Victor\Documents\Visual Studio 2015\Projects\CasaEsther\CasaEsther\CasaEsther\obj\Debug\CasaEsther.exe.manifest
+C:\Users\Victor\Documents\Visual Studio 2015\Projects\CasaEsther\CasaEsther\CasaEsther\obj\Debug\CasaEsther.application
+C:\Users\Victor\Documents\Visual Studio 2015\Projects\CasaEsther\CasaEsther\CasaEsther\obj\Debug\CasaEsther.frmRegistroArticulos.resources
+C:\Users\Victor\Documents\Visual Studio 2015\Projects\CasaEsther\CasaEsther\CasaEsther\obj\Debug\CasaEsther.frmRegistroCategorias.resources
+C:\Users\Victor\Documents\Visual Studio 2015\Projects\CasaEsther\CasaEsther\CasaEsther\obj\Debug\CasaEsther.frmRegistroCompraArticulo.resources
+C:\Users\Victor\Documents\Visual Studio 2015\Projects\CasaEsther\CasaEsther\CasaEsther\obj\Debug\CasaEsther.frmRegistroEmpleados.resources
+C:\Users\Victor\Documents\Visual Studio 2015\Projects\CasaEsther\CasaEsther\CasaEsther\obj\Debug\CasaEsther.frmPrincipal.resources
+C:\Users\Victor\Documents\Visual Studio 2015\Projects\CasaEsther\CasaEsther\CasaEsther\obj\Debug\CasaEsther.frmRegistroModelos.resources
+C:\Users\Victor\Documents\Visual Studio 2015\Projects\CasaEsther\CasaEsther\CasaEsther\obj\Debug\CasaEsther.frmRegistroProveedores.resources
+C:\Users\Victor\Documents\Visual Studio 2015\Projects\CasaEsther\CasaEsther\CasaEsther\obj\Debug\CasaEsther.frmRegistroVentas.resources
+H:\CasaEsther\CasaEsther\CasaEsther\bin\Debug\CasaEsther.exe.config
+H:\CasaEsther\CasaEsther\CasaEsther\obj\Debug\CasaEsther.exe
+H:\CasaEsther\CasaEsther\CasaEsther\obj\Debug\CasaEsther.xml
+H:\CasaEsther\CasaEsther\CasaEsther\obj\Debug\CasaEsther.pdb
+C:\Users\Lucyy\Desktop\CasaEsther\CasaEsther\CasaEsther\bin\Debug\CasaEsther.exe.manifest
+C:\Users\Lucyy\Desktop\CasaEsther\CasaEsther\CasaEsther\bin\Debug\CasaEsther.application
+C:\Users\Lucyy\Desktop\CasaEsther\CasaEsther\CasaEsther\bin\Debug\CasaEsther.exe
+C:\Users\Lucyy\Desktop\CasaEsther\CasaEsther\CasaEsther\bin\Debug\CasaEsther.pdb
+C:\Users\Lucyy\Desktop\CasaEsther\CasaEsther\CasaEsther\bin\Debug\CasaEsther.xml
+C:\Users\Lucyy\Desktop\CasaEsther\CasaEsther\CasaEsther\obj\Debug\CasaEsther.vbprojResolveAssemblyReference.cache
+C:\Users\Lucyy\Desktop\CasaEsther\CasaEsther\CasaEsther\obj\Debug\CasaEsther.frmRegistroArticulos.resources
+C:\Users\Lucyy\Desktop\CasaEsther\CasaEsther\CasaEsther\obj\Debug\CasaEsther.frmRegistroCategorias.resources
+C:\Users\Lucyy\Desktop\CasaEsther\CasaEsther\CasaEsther\obj\Debug\CasaEsther.login.resources
+C:\Users\Lucyy\Desktop\CasaEsther\CasaEsther\CasaEsther\obj\Debug\CasaEsther.frmRegistroCompraArticulo.resources
+C:\Users\Lucyy\Desktop\CasaEsther\CasaEsther\CasaEsther\obj\Debug\CasaEsther.frmRegistroEmpleados.resources
+C:\Users\Lucyy\Desktop\CasaEsther\CasaEsther\CasaEsther\obj\Debug\CasaEsther.frmPrincipal.resources
+C:\Users\Lucyy\Desktop\CasaEsther\CasaEsther\CasaEsther\obj\Debug\CasaEsther.frmRegistroModelos.resources
+C:\Users\Lucyy\Desktop\CasaEsther\CasaEsther\CasaEsther\obj\Debug\CasaEsther.Resources.resources
+C:\Users\Lucyy\Desktop\CasaEsther\CasaEsther\CasaEsther\obj\Debug\CasaEsther.frmRegistroProveedores.resources
+C:\Users\Lucyy\Desktop\CasaEsther\CasaEsther\CasaEsther\obj\Debug\CasaEsther.frmRegistroVentas.resources
+C:\Users\Lucyy\Desktop\CasaEsther\CasaEsther\CasaEsther\obj\Debug\CasaEsther.vbproj.GenerateResource.Cache
+C:\Users\Lucyy\Desktop\CasaEsther\CasaEsther\CasaEsther\obj\Debug\CasaEsther.exe.manifest
+C:\Users\Lucyy\Desktop\CasaEsther\CasaEsther\CasaEsther\obj\Debug\CasaEsther.application
+C:\Users\Victor\Desktop\CasaEsther\CasaEsther\CasaEsther\obj\Debug\CasaEsther.frmRegistroArticulos.resources
+C:\Users\Victor\Desktop\CasaEsther\CasaEsther\CasaEsther\obj\Debug\CasaEsther.frmRegistroCategorias.resources
+C:\Users\Victor\Desktop\CasaEsther\CasaEsther\CasaEsther\obj\Debug\CasaEsther.login.resources
+C:\Users\Victor\Desktop\CasaEsther\CasaEsther\CasaEsther\obj\Debug\CasaEsther.frmRegistroCompraArticulo.resources
+C:\Users\Victor\Desktop\CasaEsther\CasaEsther\CasaEsther\obj\Debug\CasaEsther.frmRegistroEmpleados.resources
+C:\Users\Victor\Desktop\CasaEsther\CasaEsther\CasaEsther\obj\Debug\CasaEsther.frmPrincipal.resources
+C:\Users\Victor\Desktop\CasaEsther\CasaEsther\CasaEsther\obj\Debug\CasaEsther.frmRegistroModelos.resources
+C:\Users\Victor\Desktop\CasaEsther\CasaEsther\CasaEsther\obj\Debug\CasaEsther.frmRegistroProveedores.resources
+C:\Users\Victor\Desktop\CasaEsther\CasaEsther\CasaEsther\obj\Debug\CasaEsther.frmRegistroVentas.resources
+C:\Users\Victor\Desktop\CasaEsther\CasaEsther\CasaEsther\obj\Debug\CasaEsther.frmUsuarios.resources
+C:\Users\Lucyy\Desktop\CasaEsther\CasaEsther\CasaEsther\obj\Debug\CasaEsther.frmUsuarios.resources
+C:\Users\Lucyy\Desktop\CasaEsther\CasaEsther\CasaEsther\obj\Debug\CasaEsther.frmConsultaCompra.resources
+C:\Users\Lucyy\Desktop\CasaEsther\CasaEsther\CasaEsther\obj\Debug\CasaEsther.frmApartados.resources
+C:\Users\Lucyy\Desktop\CasaEsther\CasaEsther\CasaEsther\obj\Debug\CasaEsther.frnConsultaApartados.resources
+C:\Users\Victor\Desktop\CasaEstherConsultaApartados\CasaEsther\CasaEsther\CasaEsther\bin\Debug\CasaEsther.exe.config
+C:\Users\Victor\Desktop\CasaEstherConsultaApartados\CasaEsther\CasaEsther\CasaEsther\obj\Debug\CasaEsther.exe
+C:\Users\Victor\Desktop\CasaEstherConsultaApartados\CasaEsther\CasaEsther\CasaEsther\obj\Debug\CasaEsther.xml
+C:\Users\Victor\Desktop\CasaEstherConsultaApartados\CasaEsther\CasaEsther\CasaEsther\obj\Debug\CasaEsther.pdb
+C:\Users\Victor\Desktop\CasaEstherConsultaApartados\CasaEsther\CasaEsther\CasaEsther\obj\Debug\CasaEsther.vbprojResolveAssemblyReference.cache
+C:\Users\Victor\Desktop\CasaEstherConsultaApartados\CasaEsther\CasaEsther\CasaEsther\obj\Debug\CasaEsther.frmRegistroArticulos.resources
+C:\Users\Victor\Desktop\CasaEstherConsultaApartados\CasaEsther\CasaEsther\CasaEsther\obj\Debug\CasaEsther.frmRegistroCategorias.resources
+C:\Users\Victor\Desktop\CasaEstherConsultaApartados\CasaEsther\CasaEsther\CasaEsther\obj\Debug\CasaEsther.frmUsuarios.resources
+C:\Users\Victor\Desktop\CasaEstherConsultaApartados\CasaEsther\CasaEsther\CasaEsther\obj\Debug\CasaEsther.login.resources
+C:\Users\Victor\Desktop\CasaEstherConsultaApartados\CasaEsther\CasaEsther\CasaEsther\obj\Debug\CasaEsther.frmAbonos.resources
+C:\Users\Victor\Desktop\CasaEstherConsultaApartados\CasaEsther\CasaEsther\CasaEsther\obj\Debug\CasaEsther.frmApartados.resources
+C:\Users\Victor\Desktop\CasaEstherConsultaApartados\CasaEsther\CasaEsther\CasaEsther\obj\Debug\CasaEsther.frmConsultaCompra.resources
+C:\Users\Victor\Desktop\CasaEstherConsultaApartados\CasaEsther\CasaEsther\CasaEsther\obj\Debug\CasaEsther.frmRegistroCompraArticulo.resources
+C:\Users\Victor\Desktop\CasaEstherConsultaApartados\CasaEsther\CasaEsther\CasaEsther\obj\Debug\CasaEsther.frmRegistroEmpleados.resources
+C:\Users\Victor\Desktop\CasaEstherConsultaApartados\CasaEsther\CasaEsther\CasaEsther\obj\Debug\CasaEsther.frmPrincipal.resources
+C:\Users\Victor\Desktop\CasaEstherConsultaApartados\CasaEsther\CasaEsther\CasaEsther\obj\Debug\CasaEsther.frmRegistroModelos.resources
+C:\Users\Victor\Desktop\CasaEstherConsultaApartados\CasaEsther\CasaEsther\CasaEsther\obj\Debug\CasaEsther.frmConsultaVentas.resources
+C:\Users\Victor\Desktop\CasaEstherConsultaApartados\CasaEsther\CasaEsther\CasaEsther\obj\Debug\CasaEsther.Resources.resources
+C:\Users\Victor\Desktop\CasaEstherConsultaApartados\CasaEsther\CasaEsther\CasaEsther\obj\Debug\CasaEsther.frmRegistroProveedores.resources
+C:\Users\Victor\Desktop\CasaEstherConsultaApartados\CasaEsther\CasaEsther\CasaEsther\obj\Debug\CasaEsther.frmRegistroVentas.resources
+C:\Users\Victor\Desktop\CasaEstherConsultaApartados\CasaEsther\CasaEsther\CasaEsther\obj\Debug\CasaEsther.vbproj.GenerateResource.Cache
+C:\Users\Victor\Desktop\CasaEstherConsultaApartados\CasaEsther\CasaEsther\CasaEsther\bin\Debug\CasaEsther.exe.manifest
+C:\Users\Victor\Desktop\CasaEstherConsultaApartados\CasaEsther\CasaEsther\CasaEsther\bin\Debug\CasaEsther.application
+C:\Users\Victor\Desktop\CasaEstherConsultaApartados\CasaEsther\CasaEsther\CasaEsther\bin\Debug\CasaEsther.exe
+C:\Users\Victor\Desktop\CasaEstherConsultaApartados\CasaEsther\CasaEsther\CasaEsther\bin\Debug\CasaEsther.pdb
+C:\Users\Victor\Desktop\CasaEstherConsultaApartados\CasaEsther\CasaEsther\CasaEsther\bin\Debug\CasaEsther.xml
+C:\Users\Victor\Desktop\CasaEstherConsultaApartados\CasaEsther\CasaEsther\CasaEsther\obj\Debug\CasaEsther.exe.manifest
+C:\Users\Victor\Desktop\CasaEstherConsultaApartados\CasaEsther\CasaEsther\CasaEsther\obj\Debug\CasaEsther.application
+C:\Users\Victor\Desktop\CasaEstherConsultaApartados\CasaEsther\CasaEsther\CasaEsther\obj\Debug\CasaEsther.frmConsultaAbonos.resources
+C:\Users\Victor\Desktop\CasaEstherConsultaApartados\CasaEsther\CasaEsther\CasaEsther\obj\Debug\CasaEsther.frmConsultaApartados.resources
+C:\Users\Victor\Desktop\CasaEsther\CasaEsther\bin\Debug\CasaEsther.exe.config
+C:\Users\Victor\Desktop\CasaEsther\CasaEsther\obj\Debug\CasaEsther.exe
+C:\Users\Victor\Desktop\CasaEsther\CasaEsther\obj\Debug\CasaEsther.xml
+C:\Users\Victor\Desktop\CasaEsther\CasaEsther\obj\Debug\CasaEsther.pdb
+C:\Users\Victor\Desktop\CasaEsther\CasaEsther\bin\Debug\CasaEsther.exe.manifest
+C:\Users\Victor\Desktop\CasaEsther\CasaEsther\bin\Debug\CasaEsther.application
+C:\Users\Victor\Desktop\CasaEsther\CasaEsther\bin\Debug\CasaEsther.exe
+C:\Users\Victor\Desktop\CasaEsther\CasaEsther\bin\Debug\CasaEsther.pdb
+C:\Users\Victor\Desktop\CasaEsther\CasaEsther\bin\Debug\CasaEsther.xml
+C:\Users\Victor\Desktop\CasaEsther\CasaEsther\obj\Debug\CasaEsther.vbprojResolveAssemblyReference.cache
+C:\Users\Victor\Desktop\CasaEsther\CasaEsther\obj\Debug\CasaEsther.frmRegistroArticulos.resources
+C:\Users\Victor\Desktop\CasaEsther\CasaEsther\obj\Debug\CasaEsther.frmRegistroCategorias.resources
+C:\Users\Victor\Desktop\CasaEsther\CasaEsther\obj\Debug\CasaEsther.frmUsuarios.resources
+C:\Users\Victor\Desktop\CasaEsther\CasaEsther\obj\Debug\CasaEsther.login.resources
+C:\Users\Victor\Desktop\CasaEsther\CasaEsther\obj\Debug\CasaEsther.frmAbonos.resources
+C:\Users\Victor\Desktop\CasaEsther\CasaEsther\obj\Debug\CasaEsther.frmConsultaAbonos.resources
+C:\Users\Victor\Desktop\CasaEsther\CasaEsther\obj\Debug\CasaEsther.frmApartados.resources
+C:\Users\Victor\Desktop\CasaEsther\CasaEsther\obj\Debug\CasaEsther.frmConsultaApartados.resources
+C:\Users\Victor\Desktop\CasaEsther\CasaEsther\obj\Debug\CasaEsther.frmConsultaCompra.resources
+C:\Users\Victor\Desktop\CasaEsther\CasaEsther\obj\Debug\CasaEsther.frmRegistroCompraArticulo.resources
+C:\Users\Victor\Desktop\CasaEsther\CasaEsther\obj\Debug\CasaEsther.frmRegistroEmpleados.resources
+C:\Users\Victor\Desktop\CasaEsther\CasaEsther\obj\Debug\CasaEsther.frmPrincipal.resources
+C:\Users\Victor\Desktop\CasaEsther\CasaEsther\obj\Debug\CasaEsther.frmRegistroModelos.resources
+C:\Users\Victor\Desktop\CasaEsther\CasaEsther\obj\Debug\CasaEsther.frmConsultaVentas.resources
+C:\Users\Victor\Desktop\CasaEsther\CasaEsther\obj\Debug\CasaEsther.Resources.resources
+C:\Users\Victor\Desktop\CasaEsther\CasaEsther\obj\Debug\CasaEsther.frmRegistroProveedores.resources
+C:\Users\Victor\Desktop\CasaEsther\CasaEsther\obj\Debug\CasaEsther.frmRegistroVentas.resources
+C:\Users\Victor\Desktop\CasaEsther\CasaEsther\obj\Debug\CasaEsther.vbproj.GenerateResource.Cache
+C:\Users\Victor\Desktop\CasaEsther\CasaEsther\obj\Debug\CasaEsther.exe.manifest
+C:\Users\Victor\Desktop\CasaEsther\CasaEsther\obj\Debug\CasaEsther.application
+C:\Users\Lucyy\Desktop\CasaEsther\CasaEsther\bin\Debug\CasaEsther.exe.config
+C:\Users\Lucyy\Desktop\CasaEsther\CasaEsther\obj\Debug\CasaEsther.exe
+C:\Users\Lucyy\Desktop\CasaEsther\CasaEsther\obj\Debug\CasaEsther.xml
+C:\Users\Lucyy\Desktop\CasaEsther\CasaEsther\obj\Debug\CasaEsther.pdb
+C:\Users\Lucyy\Desktop\CasaEsther\CasaEsther\bin\Debug\CasaEsther.exe.manifest
+C:\Users\Lucyy\Desktop\CasaEsther\CasaEsther\bin\Debug\CasaEsther.application
+C:\Users\Lucyy\Desktop\CasaEsther\CasaEsther\bin\Debug\CasaEsther.exe
+C:\Users\Lucyy\Desktop\CasaEsther\CasaEsther\bin\Debug\CasaEsther.pdb
+C:\Users\Lucyy\Desktop\CasaEsther\CasaEsther\bin\Debug\CasaEsther.xml
+C:\Users\Lucyy\Desktop\CasaEsther\CasaEsther\obj\Debug\CasaEsther.vbprojResolveAssemblyReference.cache
+C:\Users\Lucyy\Desktop\CasaEsther\CasaEsther\obj\Debug\CasaEsther.frmRegistroArticulos.resources
+C:\Users\Lucyy\Desktop\CasaEsther\CasaEsther\obj\Debug\CasaEsther.frmRegistroCategorias.resources
+C:\Users\Lucyy\Desktop\CasaEsther\CasaEsther\obj\Debug\CasaEsther.frmUsuarios.resources
+C:\Users\Lucyy\Desktop\CasaEsther\CasaEsther\obj\Debug\CasaEsther.login.resources
+C:\Users\Lucyy\Desktop\CasaEsther\CasaEsther\obj\Debug\CasaEsther.frmAbonos.resources
+C:\Users\Lucyy\Desktop\CasaEsther\CasaEsther\obj\Debug\CasaEsther.frmConsultaAbonos.resources
+C:\Users\Lucyy\Desktop\CasaEsther\CasaEsther\obj\Debug\CasaEsther.frmApartados.resources
+C:\Users\Lucyy\Desktop\CasaEsther\CasaEsther\obj\Debug\CasaEsther.frmConsultaApartados.resources
+C:\Users\Lucyy\Desktop\CasaEsther\CasaEsther\obj\Debug\CasaEsther.frmConsultaCompra.resources
+C:\Users\Lucyy\Desktop\CasaEsther\CasaEsther\obj\Debug\CasaEsther.frmRegistroCompraArticulo.resources
+C:\Users\Lucyy\Desktop\CasaEsther\CasaEsther\obj\Debug\CasaEsther.frmRegistroEmpleados.resources
+C:\Users\Lucyy\Desktop\CasaEsther\CasaEsther\obj\Debug\CasaEsther.frmPrincipal.resources
+C:\Users\Lucyy\Desktop\CasaEsther\CasaEsther\obj\Debug\CasaEsther.frmRegistroModelos.resources
+C:\Users\Lucyy\Desktop\CasaEsther\CasaEsther\obj\Debug\CasaEsther.frmConsultaVentas.resources
+C:\Users\Lucyy\Desktop\CasaEsther\CasaEsther\obj\Debug\CasaEsther.Resources.resources
+C:\Users\Lucyy\Desktop\CasaEsther\CasaEsther\obj\Debug\CasaEsther.frmRegistroProveedores.resources
+C:\Users\Lucyy\Desktop\CasaEsther\CasaEsther\obj\Debug\CasaEsther.frmRegistroVentas.resources
+C:\Users\Lucyy\Desktop\CasaEsther\CasaEsther\obj\Debug\CasaEsther.vbproj.GenerateResource.Cache
+C:\Users\Lucyy\Desktop\CasaEsther\CasaEsther\obj\Debug\CasaEsther.exe.manifest
+C:\Users\Lucyy\Desktop\CasaEsther\CasaEsther\obj\Debug\CasaEsther.application
+C:\Users\Victor\Desktop\CasaEstherNuevo\CasaEsther\bin\Debug\CasaEsther.exe.config
+C:\Users\Victor\Desktop\CasaEstherNuevo\CasaEsther\obj\Debug\CasaEsther.exe
+C:\Users\Victor\Desktop\CasaEstherNuevo\CasaEsther\obj\Debug\CasaEsther.xml
+C:\Users\Victor\Desktop\CasaEstherNuevo\CasaEsther\obj\Debug\CasaEsther.pdb
+C:\Users\Victor\Desktop\CasaEstherNuevo\CasaEsther\obj\Debug\CasaEsther.vbprojResolveAssemblyReference.cache
+C:\Users\Victor\Desktop\CasaEstherNuevo\CasaEsther\obj\Debug\CasaEsther.frmRegistroArticulos.resources
+C:\Users\Victor\Desktop\CasaEstherNuevo\CasaEsther\obj\Debug\CasaEsther.frmRegistroCategorias.resources
+C:\Users\Victor\Desktop\CasaEstherNuevo\CasaEsther\obj\Debug\CasaEsther.frmUsuarios.resources
+C:\Users\Victor\Desktop\CasaEstherNuevo\CasaEsther\obj\Debug\CasaEsther.login.resources
+C:\Users\Victor\Desktop\CasaEstherNuevo\CasaEsther\obj\Debug\CasaEsther.frmAbonos.resources
+C:\Users\Victor\Desktop\CasaEstherNuevo\CasaEsther\obj\Debug\CasaEsther.frmConsultaAbonos.resources
+C:\Users\Victor\Desktop\CasaEstherNuevo\CasaEsther\obj\Debug\CasaEsther.frmApartados.resources
+C:\Users\Victor\Desktop\CasaEstherNuevo\CasaEsther\obj\Debug\CasaEsther.frmConsultaApartados.resources
+C:\Users\Victor\Desktop\CasaEstherNuevo\CasaEsther\obj\Debug\CasaEsther.frmConsultaCompra.resources
+C:\Users\Victor\Desktop\CasaEstherNuevo\CasaEsther\obj\Debug\CasaEsther.frmRegistroCompraArticulo.resources
+C:\Users\Victor\Desktop\CasaEstherNuevo\CasaEsther\obj\Debug\CasaEsther.frmRegistroEmpleados.resources
+C:\Users\Victor\Desktop\CasaEstherNuevo\CasaEsther\obj\Debug\CasaEsther.frmPrincipal.resources
+C:\Users\Victor\Desktop\CasaEstherNuevo\CasaEsther\obj\Debug\CasaEsther.frmRegistroModelos.resources
+C:\Users\Victor\Desktop\CasaEstherNuevo\CasaEsther\obj\Debug\CasaEsther.frmConsultaVentas.resources
+C:\Users\Victor\Desktop\CasaEstherNuevo\CasaEsther\obj\Debug\CasaEsther.Resources.resources
+C:\Users\Victor\Desktop\CasaEstherNuevo\CasaEsther\obj\Debug\CasaEsther.frmRegistroProveedores.resources
+C:\Users\Victor\Desktop\CasaEstherNuevo\CasaEsther\obj\Debug\CasaEsther.frmRegistroVentas.resources
+C:\Users\Victor\Desktop\CasaEstherNuevo\CasaEsther\obj\Debug\CasaEsther.frmReporte.resources
+C:\Users\Victor\Desktop\CasaEstherNuevo\CasaEsther\obj\Debug\CasaEsther.vbproj.GenerateResource.Cache
+C:\Users\Victor\Desktop\CasaEstherNuevo\CasaEsther\obj\Debug\RdlCompile.cache
+C:\Users\Victor\Desktop\CasaEstherNuevo\CasaEsther\obj\Debug\RdlCompile.compiled
+C:\Users\Victor\Desktop\CasaEstherNuevo\CasaEsther\bin\Debug\CasaEsther.exe.manifest
+C:\Users\Victor\Desktop\CasaEstherNuevo\CasaEsther\bin\Debug\CasaEsther.application
+C:\Users\Victor\Desktop\CasaEstherNuevo\CasaEsther\bin\Debug\CasaEsther.exe
+C:\Users\Victor\Desktop\CasaEstherNuevo\CasaEsther\bin\Debug\CasaEsther.pdb
+C:\Users\Victor\Desktop\CasaEstherNuevo\CasaEsther\bin\Debug\CasaEsther.xml
+C:\Users\Victor\Desktop\CasaEstherNuevo\CasaEsther\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Victor\Desktop\CasaEstherNuevo\CasaEsther\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Victor\Desktop\CasaEstherNuevo\CasaEsther\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Victor\Desktop\CasaEstherNuevo\CasaEsther\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Victor\Desktop\CasaEstherNuevo\CasaEsther\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Victor\Desktop\CasaEstherNuevo\CasaEsther\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Victor\Desktop\CasaEstherNuevo\CasaEsther\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Victor\Desktop\CasaEstherNuevo\CasaEsther\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Victor\Desktop\CasaEstherNuevo\CasaEsther\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Victor\Desktop\CasaEstherNuevo\CasaEsther\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Victor\Desktop\CasaEstherNuevo\CasaEsther\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Victor\Desktop\CasaEstherNuevo\CasaEsther\obj\Debug\CasaEsther.exe.manifest
+C:\Users\Victor\Desktop\CasaEstherNuevo\CasaEsther\obj\Debug\CasaEsther.application
+C:\Users\Lucyy\Desktop\CasaEstherNuevo\CasaEsther\bin\Debug\CasaEsther.exe.config
+C:\Users\Lucyy\Desktop\CasaEstherNuevo\CasaEsther\obj\Debug\CasaEsther.exe
+C:\Users\Lucyy\Desktop\CasaEstherNuevo\CasaEsther\obj\Debug\CasaEsther.xml
+C:\Users\Lucyy\Desktop\CasaEstherNuevo\CasaEsther\obj\Debug\CasaEsther.pdb
+C:\Users\Lucyy\Desktop\CasaEstherNuevo\CasaEsther\obj\Debug\CasaEsther.vbprojResolveAssemblyReference.cache
+C:\Users\Lucyy\Desktop\CasaEstherNuevo\CasaEsther\obj\Debug\CasaEsther.frmRegistroArticulos.resources
+C:\Users\Lucyy\Desktop\CasaEstherNuevo\CasaEsther\obj\Debug\CasaEsther.frmRegistroCategorias.resources
+C:\Users\Lucyy\Desktop\CasaEstherNuevo\CasaEsther\obj\Debug\CasaEsther.frmUsuarios.resources
+C:\Users\Lucyy\Desktop\CasaEstherNuevo\CasaEsther\obj\Debug\CasaEsther.login.resources
+C:\Users\Lucyy\Desktop\CasaEstherNuevo\CasaEsther\obj\Debug\CasaEsther.frmAbonos.resources
+C:\Users\Lucyy\Desktop\CasaEstherNuevo\CasaEsther\obj\Debug\CasaEsther.frmConsultaAbonos.resources
+C:\Users\Lucyy\Desktop\CasaEstherNuevo\CasaEsther\obj\Debug\CasaEsther.frmApartados.resources
+C:\Users\Lucyy\Desktop\CasaEstherNuevo\CasaEsther\obj\Debug\CasaEsther.frmConsultaApartados.resources
+C:\Users\Lucyy\Desktop\CasaEstherNuevo\CasaEsther\obj\Debug\CasaEsther.frmConsultaCompra.resources
+C:\Users\Lucyy\Desktop\CasaEstherNuevo\CasaEsther\obj\Debug\CasaEsther.frmRegistroCompraArticulo.resources
+C:\Users\Lucyy\Desktop\CasaEstherNuevo\CasaEsther\obj\Debug\CasaEsther.frmRegistroEmpleados.resources
+C:\Users\Lucyy\Desktop\CasaEstherNuevo\CasaEsther\obj\Debug\CasaEsther.frmPrincipal.resources
+C:\Users\Lucyy\Desktop\CasaEstherNuevo\CasaEsther\obj\Debug\CasaEsther.frmRegistroModelos.resources
+C:\Users\Lucyy\Desktop\CasaEstherNuevo\CasaEsther\obj\Debug\CasaEsther.frmConsultaVentas.resources
+C:\Users\Lucyy\Desktop\CasaEstherNuevo\CasaEsther\obj\Debug\CasaEsther.Resources.resources
+C:\Users\Lucyy\Desktop\CasaEstherNuevo\CasaEsther\obj\Debug\CasaEsther.frmRegistroProveedores.resources
+C:\Users\Lucyy\Desktop\CasaEstherNuevo\CasaEsther\obj\Debug\CasaEsther.frmRegistroVentas.resources
+C:\Users\Lucyy\Desktop\CasaEstherNuevo\CasaEsther\obj\Debug\CasaEsther.frmReporte.resources
+C:\Users\Lucyy\Desktop\CasaEstherNuevo\CasaEsther\obj\Debug\CasaEsther.vbproj.GenerateResource.Cache
+C:\Users\Lucyy\Desktop\CasaEstherNuevo\CasaEsther\obj\Debug\RdlCompile.cache
+C:\Users\Lucyy\Desktop\CasaEstherNuevo\CasaEsther\obj\Debug\RdlCompile.compiled
+C:\Users\Lucyy\Desktop\CasaEstherNuevo\CasaEsther\bin\Debug\CasaEsther.exe.manifest
+C:\Users\Lucyy\Desktop\CasaEstherNuevo\CasaEsther\bin\Debug\CasaEsther.application
+C:\Users\Lucyy\Desktop\CasaEstherNuevo\CasaEsther\bin\Debug\CasaEsther.exe
+C:\Users\Lucyy\Desktop\CasaEstherNuevo\CasaEsther\bin\Debug\CasaEsther.pdb
+C:\Users\Lucyy\Desktop\CasaEstherNuevo\CasaEsther\bin\Debug\CasaEsther.xml
+C:\Users\Lucyy\Desktop\CasaEstherNuevo\CasaEsther\obj\Debug\CasaEsther.exe.manifest
+C:\Users\Lucyy\Desktop\CasaEstherNuevo\CasaEsther\obj\Debug\CasaEsther.application
+C:\Users\Victor\Desktop\CasaEstherNuevoChido\CasaEsther\bin\Debug\CasaEsther.exe.config
+C:\Users\Victor\Desktop\CasaEstherNuevoChido\CasaEsther\obj\Debug\CasaEsther.exe
+C:\Users\Victor\Desktop\CasaEstherNuevoChido\CasaEsther\obj\Debug\CasaEsther.xml
+C:\Users\Victor\Desktop\CasaEstherNuevoChido\CasaEsther\obj\Debug\CasaEsther.pdb
+C:\Users\Victor\Desktop\CasaEstherNuevoChido\CasaEsther\bin\Debug\CasaEsther.exe.manifest
+C:\Users\Victor\Desktop\CasaEstherNuevoChido\CasaEsther\bin\Debug\CasaEsther.application
+C:\Users\Victor\Desktop\CasaEstherNuevoChido\CasaEsther\bin\Debug\CasaEsther.exe
+C:\Users\Victor\Desktop\CasaEstherNuevoChido\CasaEsther\bin\Debug\CasaEsther.pdb
+C:\Users\Victor\Desktop\CasaEstherNuevoChido\CasaEsther\bin\Debug\CasaEsther.xml
+C:\Users\Victor\Desktop\CasaEstherNuevoChido\CasaEsther\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Victor\Desktop\CasaEstherNuevoChido\CasaEsther\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Victor\Desktop\CasaEstherNuevoChido\CasaEsther\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Victor\Desktop\CasaEstherNuevoChido\CasaEsther\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Victor\Desktop\CasaEstherNuevoChido\CasaEsther\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Victor\Desktop\CasaEstherNuevoChido\CasaEsther\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Victor\Desktop\CasaEstherNuevoChido\CasaEsther\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Victor\Desktop\CasaEstherNuevoChido\CasaEsther\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Victor\Desktop\CasaEstherNuevoChido\CasaEsther\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Victor\Desktop\CasaEstherNuevoChido\CasaEsther\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Victor\Desktop\CasaEstherNuevoChido\CasaEsther\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Victor\Desktop\CasaEstherNuevoChido\CasaEsther\obj\Debug\CasaEsther.vbprojResolveAssemblyReference.cache
+C:\Users\Victor\Desktop\CasaEstherNuevoChido\CasaEsther\obj\Debug\CasaEsther.frmRegistroArticulos.resources
+C:\Users\Victor\Desktop\CasaEstherNuevoChido\CasaEsther\obj\Debug\CasaEsther.frmRegistroCategorias.resources
+C:\Users\Victor\Desktop\CasaEstherNuevoChido\CasaEsther\obj\Debug\CasaEsther.frmUsuarios.resources
+C:\Users\Victor\Desktop\CasaEstherNuevoChido\CasaEsther\obj\Debug\CasaEsther.login.resources
+C:\Users\Victor\Desktop\CasaEstherNuevoChido\CasaEsther\obj\Debug\CasaEsther.frmAbonos.resources
+C:\Users\Victor\Desktop\CasaEstherNuevoChido\CasaEsther\obj\Debug\CasaEsther.frmConsultaAbonos.resources
+C:\Users\Victor\Desktop\CasaEstherNuevoChido\CasaEsther\obj\Debug\CasaEsther.frmApartados.resources
+C:\Users\Victor\Desktop\CasaEstherNuevoChido\CasaEsther\obj\Debug\CasaEsther.frmConsultaCompra.resources
+C:\Users\Victor\Desktop\CasaEstherNuevoChido\CasaEsther\obj\Debug\CasaEsther.frmRegistroCompraArticulo.resources
+C:\Users\Victor\Desktop\CasaEstherNuevoChido\CasaEsther\obj\Debug\CasaEsther.frmRegistroEmpleados.resources
+C:\Users\Victor\Desktop\CasaEstherNuevoChido\CasaEsther\obj\Debug\CasaEsther.frmPrincipal.resources
+C:\Users\Victor\Desktop\CasaEstherNuevoChido\CasaEsther\obj\Debug\CasaEsther.frmRegistroModelos.resources
+C:\Users\Victor\Desktop\CasaEstherNuevoChido\CasaEsther\obj\Debug\CasaEsther.frmConsultaVentas.resources
+C:\Users\Victor\Desktop\CasaEstherNuevoChido\CasaEsther\obj\Debug\CasaEsther.Resources.resources
+C:\Users\Victor\Desktop\CasaEstherNuevoChido\CasaEsther\obj\Debug\CasaEsther.frmRegistroProveedores.resources
+C:\Users\Victor\Desktop\CasaEstherNuevoChido\CasaEsther\obj\Debug\CasaEsther.frmRegistroVentas.resources
+C:\Users\Victor\Desktop\CasaEstherNuevoChido\CasaEsther\obj\Debug\CasaEsther.frmReporte.resources
+C:\Users\Victor\Desktop\CasaEstherNuevoChido\CasaEsther\obj\Debug\CasaEsther.vbproj.GenerateResource.Cache
+C:\Users\Victor\Desktop\CasaEstherNuevoChido\CasaEsther\obj\Debug\RdlCompile.cache
+C:\Users\Victor\Desktop\CasaEstherNuevoChido\CasaEsther\obj\Debug\RdlCompile.compiled
+C:\Users\Victor\Desktop\CasaEstherNuevoChido\CasaEsther\obj\Debug\CasaEsther.exe.manifest
+C:\Users\Victor\Desktop\CasaEstherNuevoChido\CasaEsther\obj\Debug\CasaEsther.application
+C:\Users\Victor\Desktop\CasaEstherNuevoChido\CasaEsther\obj\Debug\CasaEsther.frmArticulosApartados.resources
+C:\Users\Victor\Desktop\CasaEstherNuevoChido\CasaEsther\obj\Debug\CasaEsther.frmConsIndApartado.resources
+C:\Users\Lucyy\Desktop\CasaEstherNuevoMasChido\CasaEstherNuevoChido\CasaEsther\bin\Debug\CasaEsther.exe.config
+C:\Users\Lucyy\Desktop\CasaEstherNuevoMasChido\CasaEstherNuevoChido\CasaEsther\obj\Debug\CasaEsther.exe
+C:\Users\Lucyy\Desktop\CasaEstherNuevoMasChido\CasaEstherNuevoChido\CasaEsther\obj\Debug\CasaEsther.xml
+C:\Users\Lucyy\Desktop\CasaEstherNuevoMasChido\CasaEstherNuevoChido\CasaEsther\obj\Debug\CasaEsther.pdb
+C:\Users\Lucyy\Desktop\CasaEstherNuevoMasChido\CasaEstherNuevoChido\CasaEsther\obj\Debug\CasaEsther.vbprojResolveAssemblyReference.cache
+C:\Users\Lucyy\Desktop\CasaEstherNuevoMasChido\CasaEstherNuevoChido\CasaEsther\obj\Debug\CasaEsther.frmRegistroArticulos.resources
+C:\Users\Lucyy\Desktop\CasaEstherNuevoMasChido\CasaEstherNuevoChido\CasaEsther\obj\Debug\CasaEsther.frmRegistroCategorias.resources
+C:\Users\Lucyy\Desktop\CasaEstherNuevoMasChido\CasaEstherNuevoChido\CasaEsther\obj\Debug\CasaEsther.frmUsuarios.resources
+C:\Users\Lucyy\Desktop\CasaEstherNuevoMasChido\CasaEstherNuevoChido\CasaEsther\obj\Debug\CasaEsther.login.resources
+C:\Users\Lucyy\Desktop\CasaEstherNuevoMasChido\CasaEstherNuevoChido\CasaEsther\obj\Debug\CasaEsther.frmAbonos.resources
+C:\Users\Lucyy\Desktop\CasaEstherNuevoMasChido\CasaEstherNuevoChido\CasaEsther\obj\Debug\CasaEsther.frmArticulosApartados.resources
+C:\Users\Lucyy\Desktop\CasaEstherNuevoMasChido\CasaEstherNuevoChido\CasaEsther\obj\Debug\CasaEsther.frmConsultaAbonos.resources
+C:\Users\Lucyy\Desktop\CasaEstherNuevoMasChido\CasaEstherNuevoChido\CasaEsther\obj\Debug\CasaEsther.frmApartados.resources
+C:\Users\Lucyy\Desktop\CasaEstherNuevoMasChido\CasaEstherNuevoChido\CasaEsther\obj\Debug\CasaEsther.frmConsIndApartado.resources
+C:\Users\Lucyy\Desktop\CasaEstherNuevoMasChido\CasaEstherNuevoChido\CasaEsther\obj\Debug\CasaEsther.frmConsultaCompra.resources
+C:\Users\Lucyy\Desktop\CasaEstherNuevoMasChido\CasaEstherNuevoChido\CasaEsther\obj\Debug\CasaEsther.frmRegistroCompraArticulo.resources
+C:\Users\Lucyy\Desktop\CasaEstherNuevoMasChido\CasaEstherNuevoChido\CasaEsther\obj\Debug\CasaEsther.frmRegistroEmpleados.resources
+C:\Users\Lucyy\Desktop\CasaEstherNuevoMasChido\CasaEstherNuevoChido\CasaEsther\obj\Debug\CasaEsther.frmPrincipal.resources
+C:\Users\Lucyy\Desktop\CasaEstherNuevoMasChido\CasaEstherNuevoChido\CasaEsther\obj\Debug\CasaEsther.frmRegistroModelos.resources
+C:\Users\Lucyy\Desktop\CasaEstherNuevoMasChido\CasaEstherNuevoChido\CasaEsther\obj\Debug\CasaEsther.frmConsultaVentas.resources
+C:\Users\Lucyy\Desktop\CasaEstherNuevoMasChido\CasaEstherNuevoChido\CasaEsther\obj\Debug\CasaEsther.Resources.resources
+C:\Users\Lucyy\Desktop\CasaEstherNuevoMasChido\CasaEstherNuevoChido\CasaEsther\obj\Debug\CasaEsther.frmRegistroProveedores.resources
+C:\Users\Lucyy\Desktop\CasaEstherNuevoMasChido\CasaEstherNuevoChido\CasaEsther\obj\Debug\CasaEsther.frmRegistroVentas.resources
+C:\Users\Lucyy\Desktop\CasaEstherNuevoMasChido\CasaEstherNuevoChido\CasaEsther\obj\Debug\CasaEsther.frmReporte.resources
+C:\Users\Lucyy\Desktop\CasaEstherNuevoMasChido\CasaEstherNuevoChido\CasaEsther\obj\Debug\CasaEsther.vbproj.GenerateResource.Cache
+C:\Users\Lucyy\Desktop\CasaEstherNuevoMasChido\CasaEstherNuevoChido\CasaEsther\obj\Debug\RdlCompile.cache
+C:\Users\Lucyy\Desktop\CasaEstherNuevoMasChido\CasaEstherNuevoChido\CasaEsther\obj\Debug\RdlCompile.compiled
+C:\Users\Lucyy\Desktop\CasaEstherNuevoMasChido\CasaEstherNuevoChido\CasaEsther\bin\Debug\CasaEsther.exe.manifest
+C:\Users\Lucyy\Desktop\CasaEstherNuevoMasChido\CasaEstherNuevoChido\CasaEsther\bin\Debug\CasaEsther.application
+C:\Users\Lucyy\Desktop\CasaEstherNuevoMasChido\CasaEstherNuevoChido\CasaEsther\bin\Debug\CasaEsther.exe
+C:\Users\Lucyy\Desktop\CasaEstherNuevoMasChido\CasaEstherNuevoChido\CasaEsther\bin\Debug\CasaEsther.pdb
+C:\Users\Lucyy\Desktop\CasaEstherNuevoMasChido\CasaEstherNuevoChido\CasaEsther\bin\Debug\CasaEsther.xml
+C:\Users\Lucyy\Desktop\CasaEstherNuevoMasChido\CasaEstherNuevoChido\CasaEsther\obj\Debug\CasaEsther.exe.manifest
+C:\Users\Lucyy\Desktop\CasaEstherNuevoMasChido\CasaEstherNuevoChido\CasaEsther\obj\Debug\CasaEsther.application
+C:\Users\Lucyy\Desktop\CasaEstherNuevoMasChido\CasaEstherNuevoChido\CasaEsther\obj\Debug\CasaEsther.frmPeriodo.resources
+C:\Users\Lucyy\Desktop\CasaEstherNuevoMasChido\CasaEstherNuevoChido\CasaEsther\obj\Debug\CasaEsther.frmProveedor.resources
+C:\Users\Victor\Desktop\CasaEstherNuevoUltraMasChido\CasaEstherNuevoChido\CasaEsther\bin\Debug\CasaEsther.exe.config
+C:\Users\Victor\Desktop\CasaEstherNuevoUltraMasChido\CasaEstherNuevoChido\CasaEsther\obj\Debug\CasaEsther.exe
+C:\Users\Victor\Desktop\CasaEstherNuevoUltraMasChido\CasaEstherNuevoChido\CasaEsther\obj\Debug\CasaEsther.xml
+C:\Users\Victor\Desktop\CasaEstherNuevoUltraMasChido\CasaEstherNuevoChido\CasaEsther\obj\Debug\CasaEsther.pdb
+C:\Users\Victor\Desktop\CasaEstherNuevoUltraMasChido\CasaEstherNuevoChido\CasaEsther\bin\Debug\CasaEsther.exe.manifest
+C:\Users\Victor\Desktop\CasaEstherNuevoUltraMasChido\CasaEstherNuevoChido\CasaEsther\bin\Debug\CasaEsther.application
+C:\Users\Victor\Desktop\CasaEstherNuevoUltraMasChido\CasaEstherNuevoChido\CasaEsther\bin\Debug\CasaEsther.exe
+C:\Users\Victor\Desktop\CasaEstherNuevoUltraMasChido\CasaEstherNuevoChido\CasaEsther\bin\Debug\CasaEsther.pdb
+C:\Users\Victor\Desktop\CasaEstherNuevoUltraMasChido\CasaEstherNuevoChido\CasaEsther\bin\Debug\CasaEsther.xml
+C:\Users\Victor\Desktop\CasaEstherNuevoUltraMasChido\CasaEstherNuevoChido\CasaEsther\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Victor\Desktop\CasaEstherNuevoUltraMasChido\CasaEstherNuevoChido\CasaEsther\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Victor\Desktop\CasaEstherNuevoUltraMasChido\CasaEstherNuevoChido\CasaEsther\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Victor\Desktop\CasaEstherNuevoUltraMasChido\CasaEstherNuevoChido\CasaEsther\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Victor\Desktop\CasaEstherNuevoUltraMasChido\CasaEstherNuevoChido\CasaEsther\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Victor\Desktop\CasaEstherNuevoUltraMasChido\CasaEstherNuevoChido\CasaEsther\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Victor\Desktop\CasaEstherNuevoUltraMasChido\CasaEstherNuevoChido\CasaEsther\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Victor\Desktop\CasaEstherNuevoUltraMasChido\CasaEstherNuevoChido\CasaEsther\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Victor\Desktop\CasaEstherNuevoUltraMasChido\CasaEstherNuevoChido\CasaEsther\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Victor\Desktop\CasaEstherNuevoUltraMasChido\CasaEstherNuevoChido\CasaEsther\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Victor\Desktop\CasaEstherNuevoUltraMasChido\CasaEstherNuevoChido\CasaEsther\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Victor\Desktop\CasaEstherNuevoUltraMasChido\CasaEstherNuevoChido\CasaEsther\obj\Debug\CasaEsther.vbprojResolveAssemblyReference.cache
+C:\Users\Victor\Desktop\CasaEstherNuevoUltraMasChido\CasaEstherNuevoChido\CasaEsther\obj\Debug\CasaEsther.frmRegistroArticulos.resources
+C:\Users\Victor\Desktop\CasaEstherNuevoUltraMasChido\CasaEstherNuevoChido\CasaEsther\obj\Debug\CasaEsther.frmRegistroCategorias.resources
+C:\Users\Victor\Desktop\CasaEstherNuevoUltraMasChido\CasaEstherNuevoChido\CasaEsther\obj\Debug\CasaEsther.frmUsuarios.resources
+C:\Users\Victor\Desktop\CasaEstherNuevoUltraMasChido\CasaEstherNuevoChido\CasaEsther\obj\Debug\CasaEsther.login.resources
+C:\Users\Victor\Desktop\CasaEstherNuevoUltraMasChido\CasaEstherNuevoChido\CasaEsther\obj\Debug\CasaEsther.frmAbonos.resources
+C:\Users\Victor\Desktop\CasaEstherNuevoUltraMasChido\CasaEstherNuevoChido\CasaEsther\obj\Debug\CasaEsther.frmArticulosApartados.resources
+C:\Users\Victor\Desktop\CasaEstherNuevoUltraMasChido\CasaEstherNuevoChido\CasaEsther\obj\Debug\CasaEsther.frmConsultaAbonos.resources
+C:\Users\Victor\Desktop\CasaEstherNuevoUltraMasChido\CasaEstherNuevoChido\CasaEsther\obj\Debug\CasaEsther.frmApartados.resources
+C:\Users\Victor\Desktop\CasaEstherNuevoUltraMasChido\CasaEstherNuevoChido\CasaEsther\obj\Debug\CasaEsther.frmConsIndApartado.resources
+C:\Users\Victor\Desktop\CasaEstherNuevoUltraMasChido\CasaEstherNuevoChido\CasaEsther\obj\Debug\CasaEsther.frmConsultaCompra.resources
+C:\Users\Victor\Desktop\CasaEstherNuevoUltraMasChido\CasaEstherNuevoChido\CasaEsther\obj\Debug\CasaEsther.frmRegistroCompraArticulo.resources
+C:\Users\Victor\Desktop\CasaEstherNuevoUltraMasChido\CasaEstherNuevoChido\CasaEsther\obj\Debug\CasaEsther.frmRegistroEmpleados.resources
+C:\Users\Victor\Desktop\CasaEstherNuevoUltraMasChido\CasaEstherNuevoChido\CasaEsther\obj\Debug\CasaEsther.frmPrincipal.resources
+C:\Users\Victor\Desktop\CasaEstherNuevoUltraMasChido\CasaEstherNuevoChido\CasaEsther\obj\Debug\CasaEsther.frmRegistroModelos.resources
+C:\Users\Victor\Desktop\CasaEstherNuevoUltraMasChido\CasaEstherNuevoChido\CasaEsther\obj\Debug\CasaEsther.frmConsultaVentas.resources
+C:\Users\Victor\Desktop\CasaEstherNuevoUltraMasChido\CasaEstherNuevoChido\CasaEsther\obj\Debug\CasaEsther.Resources.resources
+C:\Users\Victor\Desktop\CasaEstherNuevoUltraMasChido\CasaEstherNuevoChido\CasaEsther\obj\Debug\CasaEsther.frmRegistroProveedores.resources
+C:\Users\Victor\Desktop\CasaEstherNuevoUltraMasChido\CasaEstherNuevoChido\CasaEsther\obj\Debug\CasaEsther.frmRegistroVentas.resources
+C:\Users\Victor\Desktop\CasaEstherNuevoUltraMasChido\CasaEstherNuevoChido\CasaEsther\obj\Debug\CasaEsther.frmPeriodo.resources
+C:\Users\Victor\Desktop\CasaEstherNuevoUltraMasChido\CasaEstherNuevoChido\CasaEsther\obj\Debug\CasaEsther.frmReporte.resources
+C:\Users\Victor\Desktop\CasaEstherNuevoUltraMasChido\CasaEstherNuevoChido\CasaEsther\obj\Debug\CasaEsther.vbproj.GenerateResource.Cache
+C:\Users\Victor\Desktop\CasaEstherNuevoUltraMasChido\CasaEstherNuevoChido\CasaEsther\obj\Debug\RdlCompile.cache
+C:\Users\Victor\Desktop\CasaEstherNuevoUltraMasChido\CasaEstherNuevoChido\CasaEsther\obj\Debug\RdlCompile.compiled
+C:\Users\Victor\Desktop\CasaEstherNuevoUltraMasChido\CasaEstherNuevoChido\CasaEsther\obj\Debug\CasaEsther.exe.manifest
+C:\Users\Victor\Desktop\CasaEstherNuevoUltraMasChido\CasaEstherNuevoChido\CasaEsther\obj\Debug\CasaEsther.application
+C:\Users\Victor\Desktop\CasaEstherNuevoUltraMasChido\CasaEstherNuevoChido\CasaEsther\obj\Debug\CasaEsther.frmNombres.resources
+C:\Users\Lucyy\Desktop\CasaEstherNuevoUltraMasChido\CasaEstherNuevoChido\CasaEsther\bin\Debug\CasaEsther.exe.config
+C:\Users\Lucyy\Desktop\CasaEstherNuevoUltraMasChido\CasaEstherNuevoChido\CasaEsther\obj\Debug\CasaEsther.exe
+C:\Users\Lucyy\Desktop\CasaEstherNuevoUltraMasChido\CasaEstherNuevoChido\CasaEsther\obj\Debug\CasaEsther.xml
+C:\Users\Lucyy\Desktop\CasaEstherNuevoUltraMasChido\CasaEstherNuevoChido\CasaEsther\obj\Debug\CasaEsther.pdb
+C:\Users\Lucyy\Desktop\CasaEstherNuevoUltraMasChido\CasaEstherNuevoChido\CasaEsther\bin\Debug\CasaEsther.exe.manifest
+C:\Users\Lucyy\Desktop\CasaEstherNuevoUltraMasChido\CasaEstherNuevoChido\CasaEsther\bin\Debug\CasaEsther.application
+C:\Users\Lucyy\Desktop\CasaEstherNuevoUltraMasChido\CasaEstherNuevoChido\CasaEsther\bin\Debug\CasaEsther.exe
+C:\Users\Lucyy\Desktop\CasaEstherNuevoUltraMasChido\CasaEstherNuevoChido\CasaEsther\bin\Debug\CasaEsther.pdb
+C:\Users\Lucyy\Desktop\CasaEstherNuevoUltraMasChido\CasaEstherNuevoChido\CasaEsther\bin\Debug\CasaEsther.xml
+C:\Users\Lucyy\Desktop\CasaEstherNuevoUltraMasChido\CasaEstherNuevoChido\CasaEsther\obj\Debug\CasaEsther.vbprojResolveAssemblyReference.cache
+C:\Users\Lucyy\Desktop\CasaEstherNuevoUltraMasChido\CasaEstherNuevoChido\CasaEsther\obj\Debug\CasaEsther.frmRegistroArticulos.resources
+C:\Users\Lucyy\Desktop\CasaEstherNuevoUltraMasChido\CasaEstherNuevoChido\CasaEsther\obj\Debug\CasaEsther.frmRegistroCategorias.resources
+C:\Users\Lucyy\Desktop\CasaEstherNuevoUltraMasChido\CasaEstherNuevoChido\CasaEsther\obj\Debug\CasaEsther.frmUsuarios.resources
+C:\Users\Lucyy\Desktop\CasaEstherNuevoUltraMasChido\CasaEstherNuevoChido\CasaEsther\obj\Debug\CasaEsther.login.resources
+C:\Users\Lucyy\Desktop\CasaEstherNuevoUltraMasChido\CasaEstherNuevoChido\CasaEsther\obj\Debug\CasaEsther.frmAbonos.resources
+C:\Users\Lucyy\Desktop\CasaEstherNuevoUltraMasChido\CasaEstherNuevoChido\CasaEsther\obj\Debug\CasaEsther.frmArticulosApartados.resources
+C:\Users\Lucyy\Desktop\CasaEstherNuevoUltraMasChido\CasaEstherNuevoChido\CasaEsther\obj\Debug\CasaEsther.frmConsultaAbonos.resources
+C:\Users\Lucyy\Desktop\CasaEstherNuevoUltraMasChido\CasaEstherNuevoChido\CasaEsther\obj\Debug\CasaEsther.frmApartados.resources
+C:\Users\Lucyy\Desktop\CasaEstherNuevoUltraMasChido\CasaEstherNuevoChido\CasaEsther\obj\Debug\CasaEsther.frmConsIndApartado.resources
+C:\Users\Lucyy\Desktop\CasaEstherNuevoUltraMasChido\CasaEstherNuevoChido\CasaEsther\obj\Debug\CasaEsther.frmConsultaCompra.resources
+C:\Users\Lucyy\Desktop\CasaEstherNuevoUltraMasChido\CasaEstherNuevoChido\CasaEsther\obj\Debug\CasaEsther.frmRegistroCompraArticulo.resources
+C:\Users\Lucyy\Desktop\CasaEstherNuevoUltraMasChido\CasaEstherNuevoChido\CasaEsther\obj\Debug\CasaEsther.frmRegistroEmpleados.resources
+C:\Users\Lucyy\Desktop\CasaEstherNuevoUltraMasChido\CasaEstherNuevoChido\CasaEsther\obj\Debug\CasaEsther.frmPrincipal.resources
+C:\Users\Lucyy\Desktop\CasaEstherNuevoUltraMasChido\CasaEstherNuevoChido\CasaEsther\obj\Debug\CasaEsther.frmRegistroModelos.resources
+C:\Users\Lucyy\Desktop\CasaEstherNuevoUltraMasChido\CasaEstherNuevoChido\CasaEsther\obj\Debug\CasaEsther.frmConsultaVentas.resources
+C:\Users\Lucyy\Desktop\CasaEstherNuevoUltraMasChido\CasaEstherNuevoChido\CasaEsther\obj\Debug\CasaEsther.Resources.resources
+C:\Users\Lucyy\Desktop\CasaEstherNuevoUltraMasChido\CasaEstherNuevoChido\CasaEsther\obj\Debug\CasaEsther.frmRegistroProveedores.resources
+C:\Users\Lucyy\Desktop\CasaEstherNuevoUltraMasChido\CasaEstherNuevoChido\CasaEsther\obj\Debug\CasaEsther.frmRegistroVentas.resources
+C:\Users\Lucyy\Desktop\CasaEstherNuevoUltraMasChido\CasaEstherNuevoChido\CasaEsther\obj\Debug\CasaEsther.frmNombres.resources
+C:\Users\Lucyy\Desktop\CasaEstherNuevoUltraMasChido\CasaEstherNuevoChido\CasaEsther\obj\Debug\CasaEsther.frmPeriodo.resources
+C:\Users\Lucyy\Desktop\CasaEstherNuevoUltraMasChido\CasaEstherNuevoChido\CasaEsther\obj\Debug\CasaEsther.frmReporte.resources
+C:\Users\Lucyy\Desktop\CasaEstherNuevoUltraMasChido\CasaEstherNuevoChido\CasaEsther\obj\Debug\CasaEsther.vbproj.GenerateResource.Cache
+C:\Users\Lucyy\Desktop\CasaEstherNuevoUltraMasChido\CasaEstherNuevoChido\CasaEsther\obj\Debug\RdlCompile.cache
+C:\Users\Lucyy\Desktop\CasaEstherNuevoUltraMasChido\CasaEstherNuevoChido\CasaEsther\obj\Debug\RdlCompile.compiled
+C:\Users\Lucyy\Desktop\CasaEstherNuevoUltraMasChido\CasaEstherNuevoChido\CasaEsther\obj\Debug\CasaEsther.exe.manifest
+C:\Users\Lucyy\Desktop\CasaEstherNuevoUltraMasChido\CasaEstherNuevoChido\CasaEsther\obj\Debug\CasaEsther.application
+C:\Users\Lucyy\Desktop\CasaEstherNuevoUltraMasChido\CasaEstherNuevoChido\CasaEsther\obj\Debug\CasaEsther.frmBackup.resources
+C:\Users\Lucyy\Desktop\CasaEstherNuevoUltraMasChido\CasaEstherNuevoChido\CasaEsther\obj\Debug\CasaEsther.frmRestauracion.resources
+C:\Users\Victor\Desktop\CasaEstherNuevoUltraMasChidoringo\CasaEstherNuevoChido\CasaEsther\bin\Debug\CasaEsther.exe.config
+C:\Users\Victor\Desktop\CasaEstherNuevoUltraMasChidoringo\CasaEstherNuevoChido\CasaEsther\obj\Debug\CasaEsther.exe
+C:\Users\Victor\Desktop\CasaEstherNuevoUltraMasChidoringo\CasaEstherNuevoChido\CasaEsther\obj\Debug\CasaEsther.xml
+C:\Users\Victor\Desktop\CasaEstherNuevoUltraMasChidoringo\CasaEstherNuevoChido\CasaEsther\obj\Debug\CasaEsther.pdb
+C:\Users\Victor\Desktop\CasaEstherNuevoUltraMasChidoringo\CasaEstherNuevoChido\CasaEsther\bin\Debug\CasaEsther.exe.manifest
+C:\Users\Victor\Desktop\CasaEstherNuevoUltraMasChidoringo\CasaEstherNuevoChido\CasaEsther\bin\Debug\CasaEsther.application
+C:\Users\Victor\Desktop\CasaEstherNuevoUltraMasChidoringo\CasaEstherNuevoChido\CasaEsther\bin\Debug\CasaEsther.exe
+C:\Users\Victor\Desktop\CasaEstherNuevoUltraMasChidoringo\CasaEstherNuevoChido\CasaEsther\bin\Debug\CasaEsther.pdb
+C:\Users\Victor\Desktop\CasaEstherNuevoUltraMasChidoringo\CasaEstherNuevoChido\CasaEsther\bin\Debug\CasaEsther.xml
+C:\Users\Victor\Desktop\CasaEstherNuevoUltraMasChidoringo\CasaEstherNuevoChido\CasaEsther\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Victor\Desktop\CasaEstherNuevoUltraMasChidoringo\CasaEstherNuevoChido\CasaEsther\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Victor\Desktop\CasaEstherNuevoUltraMasChidoringo\CasaEstherNuevoChido\CasaEsther\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Victor\Desktop\CasaEstherNuevoUltraMasChidoringo\CasaEstherNuevoChido\CasaEsther\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Victor\Desktop\CasaEstherNuevoUltraMasChidoringo\CasaEstherNuevoChido\CasaEsther\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Victor\Desktop\CasaEstherNuevoUltraMasChidoringo\CasaEstherNuevoChido\CasaEsther\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Victor\Desktop\CasaEstherNuevoUltraMasChidoringo\CasaEstherNuevoChido\CasaEsther\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Victor\Desktop\CasaEstherNuevoUltraMasChidoringo\CasaEstherNuevoChido\CasaEsther\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Victor\Desktop\CasaEstherNuevoUltraMasChidoringo\CasaEstherNuevoChido\CasaEsther\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Victor\Desktop\CasaEstherNuevoUltraMasChidoringo\CasaEstherNuevoChido\CasaEsther\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Victor\Desktop\CasaEstherNuevoUltraMasChidoringo\CasaEstherNuevoChido\CasaEsther\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Victor\Desktop\CasaEstherNuevoUltraMasChidoringo\CasaEstherNuevoChido\CasaEsther\obj\Debug\CasaEsther.vbprojResolveAssemblyReference.cache
+C:\Users\Victor\Desktop\CasaEstherNuevoUltraMasChidoringo\CasaEstherNuevoChido\CasaEsther\obj\Debug\CasaEsther.frmRegistroArticulos.resources
+C:\Users\Victor\Desktop\CasaEstherNuevoUltraMasChidoringo\CasaEstherNuevoChido\CasaEsther\obj\Debug\CasaEsther.frmRegistroCategorias.resources
+C:\Users\Victor\Desktop\CasaEstherNuevoUltraMasChidoringo\CasaEstherNuevoChido\CasaEsther\obj\Debug\CasaEsther.frmUsuarios.resources
+C:\Users\Victor\Desktop\CasaEstherNuevoUltraMasChidoringo\CasaEstherNuevoChido\CasaEsther\obj\Debug\CasaEsther.login.resources
+C:\Users\Victor\Desktop\CasaEstherNuevoUltraMasChidoringo\CasaEstherNuevoChido\CasaEsther\obj\Debug\CasaEsther.frmAbonos.resources
+C:\Users\Victor\Desktop\CasaEstherNuevoUltraMasChidoringo\CasaEstherNuevoChido\CasaEsther\obj\Debug\CasaEsther.frmArticulosApartados.resources
+C:\Users\Victor\Desktop\CasaEstherNuevoUltraMasChidoringo\CasaEstherNuevoChido\CasaEsther\obj\Debug\CasaEsther.frmConsultaAbonos.resources
+C:\Users\Victor\Desktop\CasaEstherNuevoUltraMasChidoringo\CasaEstherNuevoChido\CasaEsther\obj\Debug\CasaEsther.frmApartados.resources
+C:\Users\Victor\Desktop\CasaEstherNuevoUltraMasChidoringo\CasaEstherNuevoChido\CasaEsther\obj\Debug\CasaEsther.frmConsIndApartado.resources
+C:\Users\Victor\Desktop\CasaEstherNuevoUltraMasChidoringo\CasaEstherNuevoChido\CasaEsther\obj\Debug\CasaEsther.frmConsultaCompra.resources
+C:\Users\Victor\Desktop\CasaEstherNuevoUltraMasChidoringo\CasaEstherNuevoChido\CasaEsther\obj\Debug\CasaEsther.frmRegistroCompraArticulo.resources
+C:\Users\Victor\Desktop\CasaEstherNuevoUltraMasChidoringo\CasaEstherNuevoChido\CasaEsther\obj\Debug\CasaEsther.frmRegistroEmpleados.resources
+C:\Users\Victor\Desktop\CasaEstherNuevoUltraMasChidoringo\CasaEstherNuevoChido\CasaEsther\obj\Debug\CasaEsther.frmPrincipal.resources
+C:\Users\Victor\Desktop\CasaEstherNuevoUltraMasChidoringo\CasaEstherNuevoChido\CasaEsther\obj\Debug\CasaEsther.frmRegistroModelos.resources
+C:\Users\Victor\Desktop\CasaEstherNuevoUltraMasChidoringo\CasaEstherNuevoChido\CasaEsther\obj\Debug\CasaEsther.frmConsultaVentas.resources
+C:\Users\Victor\Desktop\CasaEstherNuevoUltraMasChidoringo\CasaEstherNuevoChido\CasaEsther\obj\Debug\CasaEsther.Resources.resources
+C:\Users\Victor\Desktop\CasaEstherNuevoUltraMasChidoringo\CasaEstherNuevoChido\CasaEsther\obj\Debug\CasaEsther.frmRegistroProveedores.resources
+C:\Users\Victor\Desktop\CasaEstherNuevoUltraMasChidoringo\CasaEstherNuevoChido\CasaEsther\obj\Debug\CasaEsther.frmRegistroVentas.resources
+C:\Users\Victor\Desktop\CasaEstherNuevoUltraMasChidoringo\CasaEstherNuevoChido\CasaEsther\obj\Debug\CasaEsther.frmNombres.resources
+C:\Users\Victor\Desktop\CasaEstherNuevoUltraMasChidoringo\CasaEstherNuevoChido\CasaEsther\obj\Debug\CasaEsther.frmPeriodo.resources
+C:\Users\Victor\Desktop\CasaEstherNuevoUltraMasChidoringo\CasaEstherNuevoChido\CasaEsther\obj\Debug\CasaEsther.frmReporte.resources
+C:\Users\Victor\Desktop\CasaEstherNuevoUltraMasChidoringo\CasaEstherNuevoChido\CasaEsther\obj\Debug\CasaEsther.frmBackup.resources
+C:\Users\Victor\Desktop\CasaEstherNuevoUltraMasChidoringo\CasaEstherNuevoChido\CasaEsther\obj\Debug\CasaEsther.frmRestauracion.resources
+C:\Users\Victor\Desktop\CasaEstherNuevoUltraMasChidoringo\CasaEstherNuevoChido\CasaEsther\obj\Debug\CasaEsther.vbproj.GenerateResource.Cache
+C:\Users\Victor\Desktop\CasaEstherNuevoUltraMasChidoringo\CasaEstherNuevoChido\CasaEsther\obj\Debug\RdlCompile.cache
+C:\Users\Victor\Desktop\CasaEstherNuevoUltraMasChidoringo\CasaEstherNuevoChido\CasaEsther\obj\Debug\RdlCompile.compiled
+C:\Users\Victor\Desktop\CasaEstherNuevoUltraMasChidoringo\CasaEstherNuevoChido\CasaEsther\obj\Debug\CasaEsther.exe.manifest
+C:\Users\Victor\Desktop\CasaEstherNuevoUltraMasChidoringo\CasaEstherNuevoChido\CasaEsther\obj\Debug\CasaEsther.application
+C:\Users\Victor\Desktop\CasaEstherNuevoUltraMasChidoringo\CasaEstherNuevoChido\CasaEsther\obj\Debug\CasaEsther.frmHistoricos.resources
+C:\Users\Lucyy\Desktop\CasaEstherNuevoUltraMasChidoringo este si\CasaEstherNuevoChido\CasaEsther\bin\Debug\CasaEsther.exe.config
+C:\Users\Lucyy\Desktop\CasaEstherNuevoUltraMasChidoringo este si\CasaEstherNuevoChido\CasaEsther\obj\Debug\CasaEsther.exe
+C:\Users\Lucyy\Desktop\CasaEstherNuevoUltraMasChidoringo este si\CasaEstherNuevoChido\CasaEsther\obj\Debug\CasaEsther.xml
+C:\Users\Lucyy\Desktop\CasaEstherNuevoUltraMasChidoringo este si\CasaEstherNuevoChido\CasaEsther\obj\Debug\CasaEsther.pdb
+C:\Users\Lucyy\Desktop\CasaEstherNuevoUltraMasChidoringo este si\CasaEstherNuevoChido\CasaEsther\bin\Debug\CasaEsther.exe.manifest
+C:\Users\Lucyy\Desktop\CasaEstherNuevoUltraMasChidoringo este si\CasaEstherNuevoChido\CasaEsther\bin\Debug\CasaEsther.application
+C:\Users\Lucyy\Desktop\CasaEstherNuevoUltraMasChidoringo este si\CasaEstherNuevoChido\CasaEsther\bin\Debug\CasaEsther.exe
+C:\Users\Lucyy\Desktop\CasaEstherNuevoUltraMasChidoringo este si\CasaEstherNuevoChido\CasaEsther\bin\Debug\CasaEsther.pdb
+C:\Users\Lucyy\Desktop\CasaEstherNuevoUltraMasChidoringo este si\CasaEstherNuevoChido\CasaEsther\bin\Debug\CasaEsther.xml
+C:\Users\Lucyy\Desktop\CasaEstherNuevoUltraMasChidoringo este si\CasaEstherNuevoChido\CasaEsther\obj\Debug\CasaEsther.vbprojResolveAssemblyReference.cache
+C:\Users\Lucyy\Desktop\CasaEstherNuevoUltraMasChidoringo este si\CasaEstherNuevoChido\CasaEsther\obj\Debug\CasaEsther.frmRegistroArticulos.resources
+C:\Users\Lucyy\Desktop\CasaEstherNuevoUltraMasChidoringo este si\CasaEstherNuevoChido\CasaEsther\obj\Debug\CasaEsther.frmRegistroCategorias.resources
+C:\Users\Lucyy\Desktop\CasaEstherNuevoUltraMasChidoringo este si\CasaEstherNuevoChido\CasaEsther\obj\Debug\CasaEsther.frmUsuarios.resources
+C:\Users\Lucyy\Desktop\CasaEstherNuevoUltraMasChidoringo este si\CasaEstherNuevoChido\CasaEsther\obj\Debug\CasaEsther.login.resources
+C:\Users\Lucyy\Desktop\CasaEstherNuevoUltraMasChidoringo este si\CasaEstherNuevoChido\CasaEsther\obj\Debug\CasaEsther.frmAbonos.resources
+C:\Users\Lucyy\Desktop\CasaEstherNuevoUltraMasChidoringo este si\CasaEstherNuevoChido\CasaEsther\obj\Debug\CasaEsther.frmArticulosApartados.resources
+C:\Users\Lucyy\Desktop\CasaEstherNuevoUltraMasChidoringo este si\CasaEstherNuevoChido\CasaEsther\obj\Debug\CasaEsther.frmConsultaAbonos.resources
+C:\Users\Lucyy\Desktop\CasaEstherNuevoUltraMasChidoringo este si\CasaEstherNuevoChido\CasaEsther\obj\Debug\CasaEsther.frmApartados.resources
+C:\Users\Lucyy\Desktop\CasaEstherNuevoUltraMasChidoringo este si\CasaEstherNuevoChido\CasaEsther\obj\Debug\CasaEsther.frmConsIndApartado.resources
+C:\Users\Lucyy\Desktop\CasaEstherNuevoUltraMasChidoringo este si\CasaEstherNuevoChido\CasaEsther\obj\Debug\CasaEsther.frmConsultaCompra.resources
+C:\Users\Lucyy\Desktop\CasaEstherNuevoUltraMasChidoringo este si\CasaEstherNuevoChido\CasaEsther\obj\Debug\CasaEsther.frmRegistroCompraArticulo.resources
+C:\Users\Lucyy\Desktop\CasaEstherNuevoUltraMasChidoringo este si\CasaEstherNuevoChido\CasaEsther\obj\Debug\CasaEsther.frmRegistroEmpleados.resources
+C:\Users\Lucyy\Desktop\CasaEstherNuevoUltraMasChidoringo este si\CasaEstherNuevoChido\CasaEsther\obj\Debug\CasaEsther.frmPrincipal.resources
+C:\Users\Lucyy\Desktop\CasaEstherNuevoUltraMasChidoringo este si\CasaEstherNuevoChido\CasaEsther\obj\Debug\CasaEsther.frmRegistroModelos.resources
+C:\Users\Lucyy\Desktop\CasaEstherNuevoUltraMasChidoringo este si\CasaEstherNuevoChido\CasaEsther\obj\Debug\CasaEsther.frmConsultaVentas.resources
+C:\Users\Lucyy\Desktop\CasaEstherNuevoUltraMasChidoringo este si\CasaEstherNuevoChido\CasaEsther\obj\Debug\CasaEsther.Resources.resources
+C:\Users\Lucyy\Desktop\CasaEstherNuevoUltraMasChidoringo este si\CasaEstherNuevoChido\CasaEsther\obj\Debug\CasaEsther.frmRegistroProveedores.resources
+C:\Users\Lucyy\Desktop\CasaEstherNuevoUltraMasChidoringo este si\CasaEstherNuevoChido\CasaEsther\obj\Debug\CasaEsther.frmRegistroVentas.resources
+C:\Users\Lucyy\Desktop\CasaEstherNuevoUltraMasChidoringo este si\CasaEstherNuevoChido\CasaEsther\obj\Debug\CasaEsther.frmNombres.resources
+C:\Users\Lucyy\Desktop\CasaEstherNuevoUltraMasChidoringo este si\CasaEstherNuevoChido\CasaEsther\obj\Debug\CasaEsther.frmPeriodo.resources
+C:\Users\Lucyy\Desktop\CasaEstherNuevoUltraMasChidoringo este si\CasaEstherNuevoChido\CasaEsther\obj\Debug\CasaEsther.frmReporte.resources
+C:\Users\Lucyy\Desktop\CasaEstherNuevoUltraMasChidoringo este si\CasaEstherNuevoChido\CasaEsther\obj\Debug\CasaEsther.frmBackup.resources
+C:\Users\Lucyy\Desktop\CasaEstherNuevoUltraMasChidoringo este si\CasaEstherNuevoChido\CasaEsther\obj\Debug\CasaEsther.frmHistoricos.resources
+C:\Users\Lucyy\Desktop\CasaEstherNuevoUltraMasChidoringo este si\CasaEstherNuevoChido\CasaEsther\obj\Debug\CasaEsther.frmRestauracion.resources
+C:\Users\Lucyy\Desktop\CasaEstherNuevoUltraMasChidoringo este si\CasaEstherNuevoChido\CasaEsther\obj\Debug\CasaEsther.vbproj.GenerateResource.Cache
+C:\Users\Lucyy\Desktop\CasaEstherNuevoUltraMasChidoringo este si\CasaEstherNuevoChido\CasaEsther\obj\Debug\RdlCompile.cache
+C:\Users\Lucyy\Desktop\CasaEstherNuevoUltraMasChidoringo este si\CasaEstherNuevoChido\CasaEsther\obj\Debug\RdlCompile.compiled
+C:\Users\Lucyy\Desktop\CasaEstherNuevoUltraMasChidoringo este si\CasaEstherNuevoChido\CasaEsther\obj\Debug\CasaEsther.exe.manifest
+C:\Users\Lucyy\Desktop\CasaEstherNuevoUltraMasChidoringo este si\CasaEstherNuevoChido\CasaEsther\obj\Debug\CasaEsther.application

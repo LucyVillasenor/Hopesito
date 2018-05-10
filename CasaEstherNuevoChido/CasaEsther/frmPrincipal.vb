@@ -88,7 +88,7 @@ Public Class frmPrincipal
         Dim reportes As New ReportDataSource("DataSet1", data.Tables(0))
         frmReporte.ReportViewer1.LocalReport.DataSources.Clear()
         frmReporte.ReportViewer1.LocalReport.DataSources.Add(reportes)
-        frmReporte.ReportViewer1.LocalReport.ReportPath = "C:\Users\Victor\Desktop\CasaEstherNuevoUltraMasChidoringo\CasaEstherNuevoChido\CasaEsther\Reportes\ReporteEmpleados.rdlc"
+        frmReporte.ReportViewer1.LocalReport.ReportPath = "C:\Users\Lucyy\Documents\GitHub\Hopesito\CasaEstherNuevoChido\CasaEsther\Reportes\ReporteEmpleados.rdlc"
         frmReporte.ReportViewer1.RefreshReport()
         frmReporte.ShowDialog()
         CONEXION.Close()
@@ -105,7 +105,7 @@ Public Class frmPrincipal
         Dim reportes As New ReportDataSource("DataSet2", data.Tables(0))
         frmReporte.ReportViewer1.LocalReport.DataSources.Clear()
         frmReporte.ReportViewer1.LocalReport.DataSources.Add(reportes)
-        frmReporte.ReportViewer1.LocalReport.ReportPath = "C:\Users\Victor\Desktop\CasaEstherNuevoUltraMasChidoringo\CasaEstherNuevoChido\CasaEsther\Reportes\ReporteArticulos.rdlc"
+        frmReporte.ReportViewer1.LocalReport.ReportPath = "C:\Users\Lucyy\Documents\GitHub\Hopesito\CasaEstherNuevoChido\CasaEsther\Reportes\ReporteArticulos.rdlc"
         frmReporte.ReportViewer1.RefreshReport()
         frmReporte.ShowDialog()
         CONEXION.Close()
@@ -122,7 +122,7 @@ Public Class frmPrincipal
         Dim reportes As New ReportDataSource("DataSet3", data.Tables(0))
         frmReporte.ReportViewer1.LocalReport.DataSources.Clear()
         frmReporte.ReportViewer1.LocalReport.DataSources.Add(reportes)
-        frmReporte.ReportViewer1.LocalReport.ReportPath = "C:\Users\Victor\Desktop\CasaEstherNuevoUltraMasChidoringo\CasaEstherNuevoChido\CasaEsther\Reportes\ReporteProveedores.rdlc"
+        frmReporte.ReportViewer1.LocalReport.ReportPath = "C:\Users\Lucyy\Documents\GitHub\Hopesito\CasaEstherNuevoChido\CasaEsther\Reportes\ReporteProveedores.rdlc"
         frmReporte.ReportViewer1.RefreshReport()
         frmReporte.ShowDialog()
         CONEXION.Close()
@@ -139,7 +139,7 @@ Public Class frmPrincipal
         Dim reportes As New ReportDataSource("DataSet4", data.Tables(0))
         frmReporte.ReportViewer1.LocalReport.DataSources.Clear()
         frmReporte.ReportViewer1.LocalReport.DataSources.Add(reportes)
-        frmReporte.ReportViewer1.LocalReport.ReportPath = "C:\Users\Victor\Desktop\CasaEstherNuevoUltraMasChidoringo\CasaEstherNuevoChido\CasaEsther\Reportes\ReporteClientes.rdlc"
+        frmReporte.ReportViewer1.LocalReport.ReportPath = "C:\Users\Lucyy\Documents\GitHub\Hopesito\CasaEstherNuevoChido\CasaEsther\Reportes\ReporteClientes.rdlc"
         frmReporte.ReportViewer1.RefreshReport()
         frmReporte.ShowDialog()
         CONEXION.Close()
@@ -194,7 +194,7 @@ Public Class frmPrincipal
 
     Private Sub frmPrincipal_KeyDown(sender As Object, e As KeyEventArgs) Handles Me.KeyDown
         If e.KeyCode = Keys.F1 Then
-            System.Diagnostics.Process.Start("C:\Users\Victor\Desktop\CasaEstherNuevoUltraMasChidoringo\CasaEstherNuevoChido\Ayuda.chm")
+            System.Diagnostics.Process.Start("C:\Users\Lucyy\Documents\GitHub\Hopesito\CasaEstherNuevoChido\Ayuda.chm")
         End If
     End Sub
 
@@ -208,4 +208,5 @@ Public Class frmPrincipal
         Me.Close()
         login.Show()
     End Sub
+
 End Class

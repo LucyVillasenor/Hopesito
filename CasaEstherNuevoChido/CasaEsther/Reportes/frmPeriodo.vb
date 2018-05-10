@@ -47,8 +47,8 @@ Public Class frmPeriodo
                 Dim e2 As New ReportParameter("F2", f2)
                 frmReporte.ReportViewer1.LocalReport.DataSources.Clear()
                 frmReporte.ReportViewer1.LocalReport.DataSources.Add(datasource)
-                'cambiar la direccion--------------------'
-                frmReporte.ReportViewer1.LocalReport.ReportPath = "C:\Users\Victor\Desktop\CasaEstherNuevoUltraMasChidoringo\CasaEstherNuevoChido\CasaEsther\Reportes\CompraPorPeriodo.rdlc"
+                'Agregar direccion--------------------'
+                frmReporte.ReportViewer1.LocalReport.ReportPath = "C:\Users\Lucyy\Documents\GitHub\Hopesito\CasaEstherNuevoChido\CasaEsther\Reportes\CompraPorPeriodo.rdlc"
                 frmReporte.ReportViewer1.LocalReport.SetParameters(New ReportParameter() {e1, e2})
                 frmReporte.ReportViewer1.RefreshReport()
                 frmReporte.Show()
@@ -85,8 +85,8 @@ Public Class frmPeriodo
                 Dim e2 As New ReportParameter("F2", f2)
                 frmReporte.ReportViewer1.LocalReport.DataSources.Clear()
                 frmReporte.ReportViewer1.LocalReport.DataSources.Add(datasource)
-                'cambiar la direccion--------------------'
-                frmReporte.ReportViewer1.LocalReport.ReportPath = "C:\Users\Victor\Desktop\CasaEstherNuevoUltraMasChidoringo\CasaEstherNuevoChido\CasaEsther\Reportes\ApartadoPorPeriodo.rdlc"
+                'Agregar direccion--------------------'
+                frmReporte.ReportViewer1.LocalReport.ReportPath = "C:\Users\Lucyy\Documents\GitHub\Hopesito\CasaEstherNuevoChido\CasaEsther\Reportes\ApartadoPorPeriodo.rdlc"
                 frmReporte.ReportViewer1.LocalReport.SetParameters(New ReportParameter() {e1, e2})
                 frmReporte.ReportViewer1.RefreshReport()
                 frmReporte.Show()
@@ -122,8 +122,8 @@ Public Class frmPeriodo
                 Dim e2 As New ReportParameter("F2", f2)
                 frmReporte.ReportViewer1.LocalReport.DataSources.Clear()
                 frmReporte.ReportViewer1.LocalReport.DataSources.Add(datasource)
-                'cambiar la direccion--------------------'
-                frmReporte.ReportViewer1.LocalReport.ReportPath = "C:\Users\Victor\Desktop\CasaEstherNuevoUltraMasChidoringo\CasaEstherNuevoChido\CasaEsther\Reportes\VentaPorPeriodo.rdlc"
+                'Agregar su direccion --------------------'
+                frmReporte.ReportViewer1.LocalReport.ReportPath = "C:\Users\Lucyy\Documents\GitHub\Hopesito\CasaEstherNuevoChido\CasaEsther\Reportes\VentaPorPeriodo.rdlc"
                 frmReporte.ReportViewer1.LocalReport.SetParameters(New ReportParameter() {e1, e2})
                 frmReporte.ReportViewer1.RefreshReport()
                 frmReporte.Show()
@@ -168,8 +168,8 @@ Public Class frmPeriodo
                 Dim e5 As New ReportParameter("Telefono", tel)
                 frmReporte.ReportViewer1.LocalReport.DataSources.Clear()
                 frmReporte.ReportViewer1.LocalReport.DataSources.Add(datasource)
-                'cambiar la direccion--------------------'
-                frmReporte.ReportViewer1.LocalReport.ReportPath = "C:\Users\Victor\Desktop\CasaEstherNuevoUltraMasChidoringo\CasaEstherNuevoChido\CasaEsther\Reportes\ApartadoPorClienteEnUnPeriodo.rdlc"
+                'Agregar direccion--------------------'
+                frmReporte.ReportViewer1.LocalReport.ReportPath = "C:\Users\Lucyy\Documents\GitHub\Hopesito\CasaEstherNuevoChido\CasaEsther\Reportes\ApartadoPorClienteEnUnPeriodo.rdlc"
                 frmReporte.ReportViewer1.LocalReport.SetParameters(New ReportParameter() {e1, e2, e3, e4, e5})
                 frmReporte.ReportViewer1.RefreshReport()
                 frmReporte.Show()

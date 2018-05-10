@@ -36,4 +36,8 @@ Public Class login
 
     End Sub
 
+    Private Sub login_Load(sender As Object, e As EventArgs) Handles MyBase.Load
+        txtContrasena.Text = ""
+        txtUsuario.Text = ""
+    End Sub
 End Class

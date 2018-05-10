@@ -6,1086 +6,1355 @@ CasaEsther
 </name>
 </assembly>
 <members>
-<member name="T:CasaEsther.CasaEstherDataSet2.AbonoDataTable">
-	<summary>
-Represents the strongly named DataTable class.
-</summary>
-</member><member name="T:CasaEsther.CasaEstherDataSet2.ApartadoDataTable">
-	<summary>
-Represents the strongly named DataTable class.
-</summary>
-</member><member name="T:CasaEsther.CasaEstherDataSet2.ArticuloDataTable">
-	<summary>
-Represents the strongly named DataTable class.
-</summary>
-</member><member name="T:CasaEsther.CasaEstherDataSet2.CategoriaDataTable">
-	<summary>
-Represents the strongly named DataTable class.
-</summary>
-</member><member name="T:CasaEsther.CasaEstherDataSet2.CompraArticuloDataTable">
-	<summary>
-Represents the strongly named DataTable class.
-</summary>
-</member><member name="T:CasaEsther.CasaEstherDataSet2.DetalleVentaDataTable">
-	<summary>
-Represents the strongly named DataTable class.
-</summary>
-</member><member name="T:CasaEsther.CasaEstherDataSet2.DetApartadoDataTable">
-	<summary>
-Represents the strongly named DataTable class.
-</summary>
-</member><member name="T:CasaEsther.CasaEstherDataSet2.DetCompraArticuloDataTable">
-	<summary>
-Represents the strongly named DataTable class.
-</summary>
-</member><member name="T:CasaEsther.CasaEstherDataSet2.EmpleadoDataTable">
-	<summary>
-Represents the strongly named DataTable class.
-</summary>
-</member><member name="T:CasaEsther.CasaEstherDataSet2.ModeloDataTable">
-	<summary>
-Represents the strongly named DataTable class.
-</summary>
-</member><member name="T:CasaEsther.CasaEstherDataSet2.ProveedorDataTable">
-	<summary>
-Represents the strongly named DataTable class.
-</summary>
-</member><member name="T:CasaEsther.CasaEstherDataSet2.UsuarioDataTable">
-	<summary>
-Represents the strongly named DataTable class.
-</summary>
-</member><member name="T:CasaEsther.CasaEstherDataSet2.VentaDataTable">
-	<summary>
-Represents the strongly named DataTable class.
-</summary>
-</member><member name="T:CasaEsther.CasaEstherDataSet2.AbonoRow">
-	<summary>
-Represents strongly named DataRow class.
-</summary>
-</member><member name="T:CasaEsther.CasaEstherDataSet2.ApartadoRow">
-	<summary>
-Represents strongly named DataRow class.
-</summary>
-</member><member name="T:CasaEsther.CasaEstherDataSet2.ArticuloRow">
-	<summary>
-Represents strongly named DataRow class.
-</summary>
-</member><member name="T:CasaEsther.CasaEstherDataSet2.CategoriaRow">
-	<summary>
-Represents strongly named DataRow class.
-</summary>
-</member><member name="T:CasaEsther.CasaEstherDataSet2.CompraArticuloRow">
-	<summary>
-Represents strongly named DataRow class.
-</summary>
-</member><member name="T:CasaEsther.CasaEstherDataSet2.DetalleVentaRow">
-	<summary>
-Represents strongly named DataRow class.
-</summary>
-</member><member name="T:CasaEsther.CasaEstherDataSet2.DetApartadoRow">
-	<summary>
-Represents strongly named DataRow class.
-</summary>
-</member><member name="T:CasaEsther.CasaEstherDataSet2.DetCompraArticuloRow">
-	<summary>
-Represents strongly named DataRow class.
-</summary>
-</member><member name="T:CasaEsther.CasaEstherDataSet2.EmpleadoRow">
-	<summary>
-Represents strongly named DataRow class.
-</summary>
-</member><member name="T:CasaEsther.CasaEstherDataSet2.ModeloRow">
-	<summary>
-Represents strongly named DataRow class.
-</summary>
-</member><member name="T:CasaEsther.CasaEstherDataSet2.ProveedorRow">
-	<summary>
-Represents strongly named DataRow class.
-</summary>
-</member><member name="T:CasaEsther.CasaEstherDataSet2.UsuarioRow">
-	<summary>
-Represents strongly named DataRow class.
-</summary>
-</member><member name="T:CasaEsther.CasaEstherDataSet2.VentaRow">
-	<summary>
-Represents strongly named DataRow class.
-</summary>
-</member><member name="T:CasaEsther.CasaEstherDataSet2.AbonoRowChangeEvent">
-	<summary>
-Row event argument class
-</summary>
-</member><member name="T:CasaEsther.CasaEstherDataSet2.ApartadoRowChangeEvent">
-	<summary>
-Row event argument class
-</summary>
-</member><member name="T:CasaEsther.CasaEstherDataSet2.ArticuloRowChangeEvent">
-	<summary>
-Row event argument class
-</summary>
-</member><member name="T:CasaEsther.CasaEstherDataSet2.CategoriaRowChangeEvent">
-	<summary>
-Row event argument class
-</summary>
-</member><member name="T:CasaEsther.CasaEstherDataSet2.CompraArticuloRowChangeEvent">
-	<summary>
-Row event argument class
-</summary>
-</member><member name="T:CasaEsther.CasaEstherDataSet2.DetalleVentaRowChangeEvent">
-	<summary>
-Row event argument class
-</summary>
-</member><member name="T:CasaEsther.CasaEstherDataSet2.DetApartadoRowChangeEvent">
-	<summary>
-Row event argument class
-</summary>
-</member><member name="T:CasaEsther.CasaEstherDataSet2.DetCompraArticuloRowChangeEvent">
-	<summary>
-Row event argument class
-</summary>
-</member><member name="T:CasaEsther.CasaEstherDataSet2.EmpleadoRowChangeEvent">
-	<summary>
-Row event argument class
-</summary>
-</member><member name="T:CasaEsther.CasaEstherDataSet2.ModeloRowChangeEvent">
-	<summary>
-Row event argument class
-</summary>
-</member><member name="T:CasaEsther.CasaEstherDataSet2.ProveedorRowChangeEvent">
-	<summary>
-Row event argument class
-</summary>
-</member><member name="T:CasaEsther.CasaEstherDataSet2.UsuarioRowChangeEvent">
-	<summary>
-Row event argument class
-</summary>
-</member><member name="T:CasaEsther.CasaEstherDataSet2.VentaRowChangeEvent">
-	<summary>
-Row event argument class
-</summary>
-</member><member name="T:CasaEsther.CasaEstherDataSet2">
-	<summary>
-Represents a strongly typed in-memory cache of data.
-</summary>
-</member><member name="T:CasaEsther.CasaEstherDataSet2TableAdapters.AbonoTableAdapter">
-	<summary>
-Represents the connection and commands used to retrieve and save data.
-</summary>
-</member><member name="T:CasaEsther.CasaEstherDataSet2TableAdapters.ApartadoTableAdapter">
-	<summary>
-Represents the connection and commands used to retrieve and save data.
-</summary>
-</member><member name="T:CasaEsther.CasaEstherDataSet2TableAdapters.ArticuloTableAdapter">
-	<summary>
-Represents the connection and commands used to retrieve and save data.
-</summary>
-</member><member name="T:CasaEsther.CasaEstherDataSet2TableAdapters.CategoriaTableAdapter">
-	<summary>
-Represents the connection and commands used to retrieve and save data.
-</summary>
-</member><member name="T:CasaEsther.CasaEstherDataSet2TableAdapters.CompraArticuloTableAdapter">
-	<summary>
-Represents the connection and commands used to retrieve and save data.
-</summary>
-</member><member name="T:CasaEsther.CasaEstherDataSet2TableAdapters.DetalleVentaTableAdapter">
-	<summary>
-Represents the connection and commands used to retrieve and save data.
-</summary>
-</member><member name="T:CasaEsther.CasaEstherDataSet2TableAdapters.DetApartadoTableAdapter">
-	<summary>
-Represents the connection and commands used to retrieve and save data.
-</summary>
-</member><member name="T:CasaEsther.CasaEstherDataSet2TableAdapters.DetCompraArticuloTableAdapter">
-	<summary>
-Represents the connection and commands used to retrieve and save data.
-</summary>
-</member><member name="T:CasaEsther.CasaEstherDataSet2TableAdapters.EmpleadoTableAdapter">
-	<summary>
-Represents the connection and commands used to retrieve and save data.
-</summary>
-</member><member name="T:CasaEsther.CasaEstherDataSet2TableAdapters.ModeloTableAdapter">
-	<summary>
-Represents the connection and commands used to retrieve and save data.
-</summary>
-</member><member name="T:CasaEsther.CasaEstherDataSet2TableAdapters.ProveedorTableAdapter">
-	<summary>
-Represents the connection and commands used to retrieve and save data.
-</summary>
-</member><member name="T:CasaEsther.CasaEstherDataSet2TableAdapters.UsuarioTableAdapter">
-	<summary>
-Represents the connection and commands used to retrieve and save data.
-</summary>
-</member><member name="T:CasaEsther.CasaEstherDataSet2TableAdapters.VentaTableAdapter">
-	<summary>
-Represents the connection and commands used to retrieve and save data.
-</summary>
-</member><member name="M:CasaEsther.CasaEstherDataSet2TableAdapters.TableAdapterManager.UpdateUpdatedRows(CasaEsther.CasaEstherDataSet2,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
-	<summary>
-Update rows in top-down order.
-</summary>
-</member><member name="M:CasaEsther.CasaEstherDataSet2TableAdapters.TableAdapterManager.UpdateInsertedRows(CasaEsther.CasaEstherDataSet2,System.Collections.Generic.List{System.Data.DataRow})">
-	<summary>
-Insert rows in top-down order.
-</summary>
-</member><member name="M:CasaEsther.CasaEstherDataSet2TableAdapters.TableAdapterManager.UpdateDeletedRows(CasaEsther.CasaEstherDataSet2,System.Collections.Generic.List{System.Data.DataRow})">
-	<summary>
-Delete rows in bottom-up order.
-</summary>
-</member><member name="M:CasaEsther.CasaEstherDataSet2TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
-	<summary>
-Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
-</summary>
-</member><member name="M:CasaEsther.CasaEstherDataSet2TableAdapters.TableAdapterManager.UpdateAll(CasaEsther.CasaEstherDataSet2)">
-	<summary>
-Update all changes to the dataset.
-</summary>
-</member><member name="T:CasaEsther.CasaEstherDataSet2TableAdapters.TableAdapterManager.UpdateOrderOption">
-	<summary>
-Update Order Option
-</summary>
-</member><member name="T:CasaEsther.CasaEstherDataSet2TableAdapters.TableAdapterManager.SelfReferenceComparer">
-	<summary>
-Used to sort self-referenced table's rows
-</summary>
-</member><member name="T:CasaEsther.CasaEstherDataSet2TableAdapters.TableAdapterManager">
-	<summary>
-TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
-</summary>
-</member><member name="T:CasaEsther.CasaEstherDataSet.ArticuloDataTable">
-	<summary>
-Represents the strongly named DataTable class.
-</summary>
-</member><member name="T:CasaEsther.CasaEstherDataSet.CategoriaDataTable">
-	<summary>
-Represents the strongly named DataTable class.
-</summary>
-</member><member name="T:CasaEsther.CasaEstherDataSet.CompraArticuloDataTable">
-	<summary>
-Represents the strongly named DataTable class.
-</summary>
-</member><member name="T:CasaEsther.CasaEstherDataSet.DetalleVentaDataTable">
-	<summary>
-Represents the strongly named DataTable class.
-</summary>
-</member><member name="T:CasaEsther.CasaEstherDataSet.DetCompraArticuloDataTable">
-	<summary>
-Represents the strongly named DataTable class.
-</summary>
-</member><member name="T:CasaEsther.CasaEstherDataSet.EmpleadoDataTable">
-	<summary>
-Represents the strongly named DataTable class.
-</summary>
-</member><member name="T:CasaEsther.CasaEstherDataSet.ModeloDataTable">
-	<summary>
-Represents the strongly named DataTable class.
-</summary>
-</member><member name="T:CasaEsther.CasaEstherDataSet.ProveedorDataTable">
-	<summary>
-Represents the strongly named DataTable class.
-</summary>
-</member><member name="T:CasaEsther.CasaEstherDataSet.VentaDataTable">
-	<summary>
-Represents the strongly named DataTable class.
-</summary>
-</member><member name="T:CasaEsther.CasaEstherDataSet.Empleado1DataTable">
-	<summary>
-Represents the strongly named DataTable class.
-</summary>
-</member><member name="T:CasaEsther.CasaEstherDataSet.ArticuloRow">
-	<summary>
-Represents strongly named DataRow class.
-</summary>
-</member><member name="T:CasaEsther.CasaEstherDataSet.CategoriaRow">
-	<summary>
-Represents strongly named DataRow class.
-</summary>
-</member><member name="T:CasaEsther.CasaEstherDataSet.CompraArticuloRow">
-	<summary>
-Represents strongly named DataRow class.
-</summary>
-</member><member name="T:CasaEsther.CasaEstherDataSet.DetalleVentaRow">
-	<summary>
-Represents strongly named DataRow class.
-</summary>
-</member><member name="T:CasaEsther.CasaEstherDataSet.DetCompraArticuloRow">
-	<summary>
-Represents strongly named DataRow class.
-</summary>
-</member><member name="T:CasaEsther.CasaEstherDataSet.EmpleadoRow">
-	<summary>
-Represents strongly named DataRow class.
-</summary>
-</member><member name="T:CasaEsther.CasaEstherDataSet.ModeloRow">
-	<summary>
-Represents strongly named DataRow class.
-</summary>
-</member><member name="T:CasaEsther.CasaEstherDataSet.ProveedorRow">
-	<summary>
-Represents strongly named DataRow class.
-</summary>
-</member><member name="T:CasaEsther.CasaEstherDataSet.VentaRow">
-	<summary>
-Represents strongly named DataRow class.
-</summary>
-</member><member name="T:CasaEsther.CasaEstherDataSet.Empleado1Row">
-	<summary>
-Represents strongly named DataRow class.
-</summary>
-</member><member name="T:CasaEsther.CasaEstherDataSet.ArticuloRowChangeEvent">
-	<summary>
-Row event argument class
-</summary>
-</member><member name="T:CasaEsther.CasaEstherDataSet.CategoriaRowChangeEvent">
-	<summary>
-Row event argument class
-</summary>
-</member><member name="T:CasaEsther.CasaEstherDataSet.CompraArticuloRowChangeEvent">
-	<summary>
-Row event argument class
-</summary>
-</member><member name="T:CasaEsther.CasaEstherDataSet.DetalleVentaRowChangeEvent">
-	<summary>
-Row event argument class
-</summary>
-</member><member name="T:CasaEsther.CasaEstherDataSet.DetCompraArticuloRowChangeEvent">
-	<summary>
-Row event argument class
-</summary>
-</member><member name="T:CasaEsther.CasaEstherDataSet.EmpleadoRowChangeEvent">
-	<summary>
-Row event argument class
-</summary>
-</member><member name="T:CasaEsther.CasaEstherDataSet.ModeloRowChangeEvent">
-	<summary>
-Row event argument class
-</summary>
-</member><member name="T:CasaEsther.CasaEstherDataSet.ProveedorRowChangeEvent">
-	<summary>
-Row event argument class
-</summary>
-</member><member name="T:CasaEsther.CasaEstherDataSet.VentaRowChangeEvent">
-	<summary>
-Row event argument class
-</summary>
-</member><member name="T:CasaEsther.CasaEstherDataSet.Empleado1RowChangeEvent">
-	<summary>
-Row event argument class
-</summary>
-</member><member name="T:CasaEsther.CasaEstherDataSet">
-	<summary>
-Represents a strongly typed in-memory cache of data.
-</summary>
-</member><member name="T:CasaEsther.CasaEstherDataSetTableAdapters.ArticuloTableAdapter">
-	<summary>
-Represents the connection and commands used to retrieve and save data.
-</summary>
-</member><member name="T:CasaEsther.CasaEstherDataSetTableAdapters.CategoriaTableAdapter">
-	<summary>
-Represents the connection and commands used to retrieve and save data.
-</summary>
-</member><member name="T:CasaEsther.CasaEstherDataSetTableAdapters.CompraArticuloTableAdapter">
-	<summary>
-Represents the connection and commands used to retrieve and save data.
-</summary>
-</member><member name="T:CasaEsther.CasaEstherDataSetTableAdapters.DetalleVentaTableAdapter">
-	<summary>
-Represents the connection and commands used to retrieve and save data.
-</summary>
-</member><member name="T:CasaEsther.CasaEstherDataSetTableAdapters.DetCompraArticuloTableAdapter">
-	<summary>
-Represents the connection and commands used to retrieve and save data.
-</summary>
-</member><member name="T:CasaEsther.CasaEstherDataSetTableAdapters.EmpleadoTableAdapter">
-	<summary>
-Represents the connection and commands used to retrieve and save data.
-</summary>
-</member><member name="T:CasaEsther.CasaEstherDataSetTableAdapters.ModeloTableAdapter">
-	<summary>
-Represents the connection and commands used to retrieve and save data.
-</summary>
-</member><member name="T:CasaEsther.CasaEstherDataSetTableAdapters.ProveedorTableAdapter">
-	<summary>
-Represents the connection and commands used to retrieve and save data.
-</summary>
-</member><member name="T:CasaEsther.CasaEstherDataSetTableAdapters.VentaTableAdapter">
-	<summary>
-Represents the connection and commands used to retrieve and save data.
-</summary>
-</member><member name="M:CasaEsther.CasaEstherDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(CasaEsther.CasaEstherDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
-	<summary>
-Update rows in top-down order.
-</summary>
-</member><member name="M:CasaEsther.CasaEstherDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(CasaEsther.CasaEstherDataSet,System.Collections.Generic.List{System.Data.DataRow})">
-	<summary>
-Insert rows in top-down order.
-</summary>
-</member><member name="M:CasaEsther.CasaEstherDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(CasaEsther.CasaEstherDataSet,System.Collections.Generic.List{System.Data.DataRow})">
-	<summary>
-Delete rows in bottom-up order.
-</summary>
-</member><member name="M:CasaEsther.CasaEstherDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
-	<summary>
-Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
-</summary>
-</member><member name="M:CasaEsther.CasaEstherDataSetTableAdapters.TableAdapterManager.UpdateAll(CasaEsther.CasaEstherDataSet)">
-	<summary>
-Update all changes to the dataset.
-</summary>
-</member><member name="T:CasaEsther.CasaEstherDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
-	<summary>
-Update Order Option
-</summary>
-</member><member name="T:CasaEsther.CasaEstherDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
-	<summary>
-Used to sort self-referenced table's rows
-</summary>
-</member><member name="T:CasaEsther.CasaEstherDataSetTableAdapters.TableAdapterManager">
-	<summary>
-TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
-</summary>
-</member><member name="P:CasaEsther.My.Resources.Resources.ResourceManager">
-	<summary>
+<member name="T:CasaEsther.My.Resources.Resources">
+<summary>
+  Clase de recurso fuertemente tipado, para buscar cadenas traducidas, etc.
+</summary>
+</member>
+<member name="P:CasaEsther.My.Resources.Resources.ResourceManager">
+<summary>
   Devuelve la instancia de ResourceManager almacenada en caché utilizada por esta clase.
 </summary>
-</member><member name="P:CasaEsther.My.Resources.Resources.Culture">
-	<summary>
+</member>
+<member name="P:CasaEsther.My.Resources.Resources.Culture">
+<summary>
   Reemplaza la propiedad CurrentUICulture del subproceso actual para todas las
   búsquedas de recursos mediante esta clase de recurso fuertemente tipado.
 </summary>
-</member><member name="P:CasaEsther.My.Resources.Resources._22396616_1707372445960855_1293495544_o">
-	<summary>
+</member>
+<member name="P:CasaEsther.My.Resources.Resources._22396616_1707372445960855_1293495544_o">
+<summary>
   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
 </summary>
-</member><member name="P:CasaEsther.My.Resources.Resources.Camcelar">
-	<summary>
+</member>
+<member name="P:CasaEsther.My.Resources.Resources.Camcelar">
+<summary>
   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
 </summary>
-</member><member name="P:CasaEsther.My.Resources.Resources.ConsAbonos">
-	<summary>
+</member>
+<member name="P:CasaEsther.My.Resources.Resources.ConsAbonos">
+<summary>
   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
 </summary>
-</member><member name="P:CasaEsther.My.Resources.Resources.ConsApartados">
-	<summary>
+</member>
+<member name="P:CasaEsther.My.Resources.Resources.ConsApartados">
+<summary>
   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
 </summary>
-</member><member name="P:CasaEsther.My.Resources.Resources.ConsCompra">
-	<summary>
+</member>
+<member name="P:CasaEsther.My.Resources.Resources.ConsCompra">
+<summary>
   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
 </summary>
-</member><member name="P:CasaEsther.My.Resources.Resources.ConsVentas">
-	<summary>
+</member>
+<member name="P:CasaEsther.My.Resources.Resources.ConsVentas">
+<summary>
   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
 </summary>
-</member><member name="P:CasaEsther.My.Resources.Resources.Copia_de_Seguridad">
-	<summary>
+</member>
+<member name="P:CasaEsther.My.Resources.Resources.Copia_de_Seguridad">
+<summary>
   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
 </summary>
-</member><member name="P:CasaEsther.My.Resources.Resources.Grabar">
-	<summary>
+</member>
+<member name="P:CasaEsther.My.Resources.Resources.Grabar">
+<summary>
   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
 </summary>
-</member><member name="P:CasaEsther.My.Resources.Resources.if_plus_1646001">
-	<summary>
+</member>
+<member name="P:CasaEsther.My.Resources.Resources.if_plus_1646001">
+<summary>
   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
 </summary>
-</member><member name="P:CasaEsther.My.Resources.Resources.Imagen1">
-	<summary>
+</member>
+<member name="P:CasaEsther.My.Resources.Resources.Imagen1">
+<summary>
   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
 </summary>
-</member><member name="P:CasaEsther.My.Resources.Resources.key_icon">
-	<summary>
+</member>
+<member name="P:CasaEsther.My.Resources.Resources.key_icon">
+<summary>
   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
 </summary>
-</member><member name="P:CasaEsther.My.Resources.Resources.Logo">
-	<summary>
+</member>
+<member name="P:CasaEsther.My.Resources.Resources.Logo">
+<summary>
   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
 </summary>
-</member><member name="P:CasaEsther.My.Resources.Resources.Logo1">
-	<summary>
+</member>
+<member name="P:CasaEsther.My.Resources.Resources.Logo1">
+<summary>
   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
 </summary>
-</member><member name="P:CasaEsther.My.Resources.Resources.Modificar">
-	<summary>
+</member>
+<member name="P:CasaEsther.My.Resources.Resources.Modificar">
+<summary>
   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
 </summary>
-</member><member name="P:CasaEsther.My.Resources.Resources.RegEmplea">
-	<summary>
+</member>
+<member name="P:CasaEsther.My.Resources.Resources.RegEmplea">
+<summary>
   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
 </summary>
-</member><member name="P:CasaEsther.My.Resources.Resources.RegiApart">
-	<summary>
+</member>
+<member name="P:CasaEsther.My.Resources.Resources.RegiApart">
+<summary>
   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
 </summary>
-</member><member name="P:CasaEsther.My.Resources.Resources.RegiCat">
-	<summary>
+</member>
+<member name="P:CasaEsther.My.Resources.Resources.RegiCat">
+<summary>
   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
 </summary>
-</member><member name="P:CasaEsther.My.Resources.Resources.RegMod">
-	<summary>
+</member>
+<member name="P:CasaEsther.My.Resources.Resources.RegMod">
+<summary>
   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
 </summary>
-</member><member name="P:CasaEsther.My.Resources.Resources.RegProvee">
-	<summary>
+</member>
+<member name="P:CasaEsther.My.Resources.Resources.RegProvee">
+<summary>
   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
 </summary>
-</member><member name="P:CasaEsther.My.Resources.Resources.RegUsu">
-	<summary>
+</member>
+<member name="P:CasaEsther.My.Resources.Resources.RegUsu">
+<summary>
   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
 </summary>
-</member><member name="P:CasaEsther.My.Resources.Resources.Restauracion">
-	<summary>
+</member>
+<member name="P:CasaEsther.My.Resources.Resources.Restauracion">
+<summary>
   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
 </summary>
-</member><member name="P:CasaEsther.My.Resources.Resources.Salir">
-	<summary>
+</member>
+<member name="P:CasaEsther.My.Resources.Resources.Salir">
+<summary>
   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
 </summary>
-</member><member name="P:CasaEsther.My.Resources.Resources.users">
-	<summary>
+</member>
+<member name="P:CasaEsther.My.Resources.Resources.users">
+<summary>
   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
 </summary>
-</member><member name="T:CasaEsther.My.Resources.Resources">
-	<summary>
-  Clase de recurso fuertemente tipado, para buscar cadenas traducidas, etc.
-</summary>
-</member><member name="T:CasaEsther.CasaEstherDataSet4.AbonoDataTable">
-	<summary>
-Represents the strongly named DataTable class.
-</summary>
-</member><member name="T:CasaEsther.CasaEstherDataSet4.ApartadoDataTable">
-	<summary>
-Represents the strongly named DataTable class.
-</summary>
-</member><member name="T:CasaEsther.CasaEstherDataSet4.CategoriaDataTable">
-	<summary>
-Represents the strongly named DataTable class.
-</summary>
-</member><member name="T:CasaEsther.CasaEstherDataSet4.ClienteDataTable">
-	<summary>
-Represents the strongly named DataTable class.
-</summary>
-</member><member name="T:CasaEsther.CasaEstherDataSet4.CompraArticuloDataTable">
-	<summary>
-Represents the strongly named DataTable class.
-</summary>
-</member><member name="T:CasaEsther.CasaEstherDataSet4.DetalleVentaDataTable">
-	<summary>
-Represents the strongly named DataTable class.
-</summary>
-</member><member name="T:CasaEsther.CasaEstherDataSet4.DetApartadoDataTable">
-	<summary>
-Represents the strongly named DataTable class.
-</summary>
-</member><member name="T:CasaEsther.CasaEstherDataSet4.DetCompraArticuloDataTable">
-	<summary>
-Represents the strongly named DataTable class.
-</summary>
-</member><member name="T:CasaEsther.CasaEstherDataSet4.EmpleadoDataTable">
-	<summary>
-Represents the strongly named DataTable class.
-</summary>
-</member><member name="T:CasaEsther.CasaEstherDataSet4.ModeloDataTable">
-	<summary>
-Represents the strongly named DataTable class.
-</summary>
-</member><member name="T:CasaEsther.CasaEstherDataSet4.ProveedorDataTable">
-	<summary>
-Represents the strongly named DataTable class.
-</summary>
-</member><member name="T:CasaEsther.CasaEstherDataSet4.UsuarioDataTable">
-	<summary>
-Represents the strongly named DataTable class.
-</summary>
-</member><member name="T:CasaEsther.CasaEstherDataSet4.VentaDataTable">
-	<summary>
-Represents the strongly named DataTable class.
-</summary>
-</member><member name="T:CasaEsther.CasaEstherDataSet4.REPORTEEMPLEADOSDataTable">
-	<summary>
-Represents the strongly named DataTable class.
-</summary>
-</member><member name="T:CasaEsther.CasaEstherDataSet4.REPORTEARTICULOSDataTable">
-	<summary>
-Represents the strongly named DataTable class.
-</summary>
-</member><member name="T:CasaEsther.CasaEstherDataSet4.REPORTECLIENTESDataTable">
-	<summary>
-Represents the strongly named DataTable class.
-</summary>
-</member><member name="T:CasaEsther.CasaEstherDataSet4.REPORTEPROVEEDORESDataTable">
-	<summary>
-Represents the strongly named DataTable class.
-</summary>
-</member><member name="T:CasaEsther.CasaEstherDataSet4.ReporteApartadoPorClienteDataTable">
-	<summary>
-Represents the strongly named DataTable class.
-</summary>
-</member><member name="T:CasaEsther.CasaEstherDataSet4.ReporteApartadoPorPeriodoDataTable">
-	<summary>
-Represents the strongly named DataTable class.
-</summary>
-</member><member name="T:CasaEsther.CasaEstherDataSet4.ReporteCompraPorPeriodoDataTable">
-	<summary>
-Represents the strongly named DataTable class.
-</summary>
-</member><member name="T:CasaEsther.CasaEstherDataSet4.ReporteCompraPorProveedorDataTable">
-	<summary>
-Represents the strongly named DataTable class.
-</summary>
-</member><member name="T:CasaEsther.CasaEstherDataSet4.ReporteVentaPorEmpleadoDataTable">
-	<summary>
-Represents the strongly named DataTable class.
-</summary>
-</member><member name="T:CasaEsther.CasaEstherDataSet4.ReporteVentaPorPeriodoDataTable">
-	<summary>
-Represents the strongly named DataTable class.
-</summary>
-</member><member name="T:CasaEsther.CasaEstherDataSet4.ReporteApartadoPorClienteEnUnPeriodoDataTable">
-	<summary>
-Represents the strongly named DataTable class.
-</summary>
-</member><member name="T:CasaEsther.CasaEstherDataSet4.ArticuloDataTable">
-	<summary>
-Represents the strongly named DataTable class.
-</summary>
-</member><member name="T:CasaEsther.CasaEstherDataSet4.AbonoRow">
-	<summary>
-Represents strongly named DataRow class.
-</summary>
-</member><member name="T:CasaEsther.CasaEstherDataSet4.ApartadoRow">
-	<summary>
-Represents strongly named DataRow class.
-</summary>
-</member><member name="T:CasaEsther.CasaEstherDataSet4.CategoriaRow">
-	<summary>
-Represents strongly named DataRow class.
-</summary>
-</member><member name="T:CasaEsther.CasaEstherDataSet4.ClienteRow">
-	<summary>
-Represents strongly named DataRow class.
-</summary>
-</member><member name="T:CasaEsther.CasaEstherDataSet4.CompraArticuloRow">
-	<summary>
-Represents strongly named DataRow class.
-</summary>
-</member><member name="T:CasaEsther.CasaEstherDataSet4.DetalleVentaRow">
-	<summary>
-Represents strongly named DataRow class.
-</summary>
-</member><member name="T:CasaEsther.CasaEstherDataSet4.DetApartadoRow">
-	<summary>
-Represents strongly named DataRow class.
-</summary>
-</member><member name="T:CasaEsther.CasaEstherDataSet4.DetCompraArticuloRow">
-	<summary>
-Represents strongly named DataRow class.
-</summary>
-</member><member name="T:CasaEsther.CasaEstherDataSet4.EmpleadoRow">
-	<summary>
-Represents strongly named DataRow class.
-</summary>
-</member><member name="T:CasaEsther.CasaEstherDataSet4.ModeloRow">
-	<summary>
-Represents strongly named DataRow class.
-</summary>
-</member><member name="T:CasaEsther.CasaEstherDataSet4.ProveedorRow">
-	<summary>
-Represents strongly named DataRow class.
-</summary>
-</member><member name="T:CasaEsther.CasaEstherDataSet4.UsuarioRow">
-	<summary>
-Represents strongly named DataRow class.
-</summary>
-</member><member name="T:CasaEsther.CasaEstherDataSet4.VentaRow">
-	<summary>
-Represents strongly named DataRow class.
-</summary>
-</member><member name="T:CasaEsther.CasaEstherDataSet4.REPORTEEMPLEADOSRow">
-	<summary>
-Represents strongly named DataRow class.
-</summary>
-</member><member name="T:CasaEsther.CasaEstherDataSet4.REPORTEARTICULOSRow">
-	<summary>
-Represents strongly named DataRow class.
-</summary>
-</member><member name="T:CasaEsther.CasaEstherDataSet4.REPORTECLIENTESRow">
-	<summary>
-Represents strongly named DataRow class.
-</summary>
-</member><member name="T:CasaEsther.CasaEstherDataSet4.REPORTEPROVEEDORESRow">
-	<summary>
-Represents strongly named DataRow class.
-</summary>
-</member><member name="T:CasaEsther.CasaEstherDataSet4.ReporteApartadoPorClienteRow">
-	<summary>
-Represents strongly named DataRow class.
-</summary>
-</member><member name="T:CasaEsther.CasaEstherDataSet4.ReporteApartadoPorPeriodoRow">
-	<summary>
-Represents strongly named DataRow class.
-</summary>
-</member><member name="T:CasaEsther.CasaEstherDataSet4.ReporteCompraPorPeriodoRow">
-	<summary>
-Represents strongly named DataRow class.
-</summary>
-</member><member name="T:CasaEsther.CasaEstherDataSet4.ReporteCompraPorProveedorRow">
-	<summary>
-Represents strongly named DataRow class.
-</summary>
-</member><member name="T:CasaEsther.CasaEstherDataSet4.ReporteVentaPorEmpleadoRow">
-	<summary>
-Represents strongly named DataRow class.
-</summary>
-</member><member name="T:CasaEsther.CasaEstherDataSet4.ReporteVentaPorPeriodoRow">
-	<summary>
-Represents strongly named DataRow class.
-</summary>
-</member><member name="T:CasaEsther.CasaEstherDataSet4.ReporteApartadoPorClienteEnUnPeriodoRow">
-	<summary>
-Represents strongly named DataRow class.
-</summary>
-</member><member name="T:CasaEsther.CasaEstherDataSet4.ArticuloRow">
-	<summary>
-Represents strongly named DataRow class.
-</summary>
-</member><member name="T:CasaEsther.CasaEstherDataSet4.AbonoRowChangeEvent">
-	<summary>
-Row event argument class
-</summary>
-</member><member name="T:CasaEsther.CasaEstherDataSet4.ApartadoRowChangeEvent">
-	<summary>
-Row event argument class
-</summary>
-</member><member name="T:CasaEsther.CasaEstherDataSet4.CategoriaRowChangeEvent">
-	<summary>
-Row event argument class
-</summary>
-</member><member name="T:CasaEsther.CasaEstherDataSet4.ClienteRowChangeEvent">
-	<summary>
-Row event argument class
-</summary>
-</member><member name="T:CasaEsther.CasaEstherDataSet4.CompraArticuloRowChangeEvent">
-	<summary>
-Row event argument class
-</summary>
-</member><member name="T:CasaEsther.CasaEstherDataSet4.DetalleVentaRowChangeEvent">
-	<summary>
-Row event argument class
-</summary>
-</member><member name="T:CasaEsther.CasaEstherDataSet4.DetApartadoRowChangeEvent">
-	<summary>
-Row event argument class
-</summary>
-</member><member name="T:CasaEsther.CasaEstherDataSet4.DetCompraArticuloRowChangeEvent">
-	<summary>
-Row event argument class
-</summary>
-</member><member name="T:CasaEsther.CasaEstherDataSet4.EmpleadoRowChangeEvent">
-	<summary>
-Row event argument class
-</summary>
-</member><member name="T:CasaEsther.CasaEstherDataSet4.ModeloRowChangeEvent">
-	<summary>
-Row event argument class
-</summary>
-</member><member name="T:CasaEsther.CasaEstherDataSet4.ProveedorRowChangeEvent">
-	<summary>
-Row event argument class
-</summary>
-</member><member name="T:CasaEsther.CasaEstherDataSet4.UsuarioRowChangeEvent">
-	<summary>
-Row event argument class
-</summary>
-</member><member name="T:CasaEsther.CasaEstherDataSet4.VentaRowChangeEvent">
-	<summary>
-Row event argument class
-</summary>
-</member><member name="T:CasaEsther.CasaEstherDataSet4.REPORTEEMPLEADOSRowChangeEvent">
-	<summary>
-Row event argument class
-</summary>
-</member><member name="T:CasaEsther.CasaEstherDataSet4.REPORTEARTICULOSRowChangeEvent">
-	<summary>
-Row event argument class
-</summary>
-</member><member name="T:CasaEsther.CasaEstherDataSet4.REPORTECLIENTESRowChangeEvent">
-	<summary>
-Row event argument class
-</summary>
-</member><member name="T:CasaEsther.CasaEstherDataSet4.REPORTEPROVEEDORESRowChangeEvent">
-	<summary>
-Row event argument class
-</summary>
-</member><member name="T:CasaEsther.CasaEstherDataSet4.ReporteApartadoPorClienteRowChangeEvent">
-	<summary>
-Row event argument class
-</summary>
-</member><member name="T:CasaEsther.CasaEstherDataSet4.ReporteApartadoPorPeriodoRowChangeEvent">
-	<summary>
-Row event argument class
-</summary>
-</member><member name="T:CasaEsther.CasaEstherDataSet4.ReporteCompraPorPeriodoRowChangeEvent">
-	<summary>
-Row event argument class
-</summary>
-</member><member name="T:CasaEsther.CasaEstherDataSet4.ReporteCompraPorProveedorRowChangeEvent">
-	<summary>
-Row event argument class
-</summary>
-</member><member name="T:CasaEsther.CasaEstherDataSet4.ReporteVentaPorEmpleadoRowChangeEvent">
-	<summary>
-Row event argument class
-</summary>
-</member><member name="T:CasaEsther.CasaEstherDataSet4.ReporteVentaPorPeriodoRowChangeEvent">
-	<summary>
-Row event argument class
-</summary>
-</member><member name="T:CasaEsther.CasaEstherDataSet4.ReporteApartadoPorClienteEnUnPeriodoRowChangeEvent">
-	<summary>
-Row event argument class
-</summary>
-</member><member name="T:CasaEsther.CasaEstherDataSet4.ArticuloRowChangeEvent">
-	<summary>
-Row event argument class
-</summary>
-</member><member name="T:CasaEsther.CasaEstherDataSet4">
-	<summary>
+</member>
+<member name="T:CasaEsther.CasaEstherDataSet1">
+<summary>
 Represents a strongly typed in-memory cache of data.
 </summary>
-</member><member name="T:CasaEsther.CasaEstherDataSet4TableAdapters.AbonoTableAdapter">
-	<summary>
-Represents the connection and commands used to retrieve and save data.
-</summary>
-</member><member name="T:CasaEsther.CasaEstherDataSet4TableAdapters.ApartadoTableAdapter">
-	<summary>
-Represents the connection and commands used to retrieve and save data.
-</summary>
-</member><member name="T:CasaEsther.CasaEstherDataSet4TableAdapters.CategoriaTableAdapter">
-	<summary>
-Represents the connection and commands used to retrieve and save data.
-</summary>
-</member><member name="T:CasaEsther.CasaEstherDataSet4TableAdapters.ClienteTableAdapter">
-	<summary>
-Represents the connection and commands used to retrieve and save data.
-</summary>
-</member><member name="T:CasaEsther.CasaEstherDataSet4TableAdapters.CompraArticuloTableAdapter">
-	<summary>
-Represents the connection and commands used to retrieve and save data.
-</summary>
-</member><member name="T:CasaEsther.CasaEstherDataSet4TableAdapters.DetalleVentaTableAdapter">
-	<summary>
-Represents the connection and commands used to retrieve and save data.
-</summary>
-</member><member name="T:CasaEsther.CasaEstherDataSet4TableAdapters.DetApartadoTableAdapter">
-	<summary>
-Represents the connection and commands used to retrieve and save data.
-</summary>
-</member><member name="T:CasaEsther.CasaEstherDataSet4TableAdapters.DetCompraArticuloTableAdapter">
-	<summary>
-Represents the connection and commands used to retrieve and save data.
-</summary>
-</member><member name="T:CasaEsther.CasaEstherDataSet4TableAdapters.EmpleadoTableAdapter">
-	<summary>
-Represents the connection and commands used to retrieve and save data.
-</summary>
-</member><member name="T:CasaEsther.CasaEstherDataSet4TableAdapters.ModeloTableAdapter">
-	<summary>
-Represents the connection and commands used to retrieve and save data.
-</summary>
-</member><member name="T:CasaEsther.CasaEstherDataSet4TableAdapters.ProveedorTableAdapter">
-	<summary>
-Represents the connection and commands used to retrieve and save data.
-</summary>
-</member><member name="T:CasaEsther.CasaEstherDataSet4TableAdapters.UsuarioTableAdapter">
-	<summary>
-Represents the connection and commands used to retrieve and save data.
-</summary>
-</member><member name="T:CasaEsther.CasaEstherDataSet4TableAdapters.VentaTableAdapter">
-	<summary>
-Represents the connection and commands used to retrieve and save data.
-</summary>
-</member><member name="T:CasaEsther.CasaEstherDataSet4TableAdapters.REPORTEEMPLEADOSTableAdapter">
-	<summary>
-Represents the connection and commands used to retrieve and save data.
-</summary>
-</member><member name="T:CasaEsther.CasaEstherDataSet4TableAdapters.REPORTEARTICULOSTableAdapter">
-	<summary>
-Represents the connection and commands used to retrieve and save data.
-</summary>
-</member><member name="T:CasaEsther.CasaEstherDataSet4TableAdapters.REPORTECLIENTESTableAdapter">
-	<summary>
-Represents the connection and commands used to retrieve and save data.
-</summary>
-</member><member name="T:CasaEsther.CasaEstherDataSet4TableAdapters.REPORTEPROVEEDORESTableAdapter">
-	<summary>
-Represents the connection and commands used to retrieve and save data.
-</summary>
-</member><member name="T:CasaEsther.CasaEstherDataSet4TableAdapters.ReporteApartadoPorClienteTableAdapter">
-	<summary>
-Represents the connection and commands used to retrieve and save data.
-</summary>
-</member><member name="T:CasaEsther.CasaEstherDataSet4TableAdapters.ReporteApartadoPorPeriodoTableAdapter">
-	<summary>
-Represents the connection and commands used to retrieve and save data.
-</summary>
-</member><member name="T:CasaEsther.CasaEstherDataSet4TableAdapters.ReporteCompraPorPeriodoTableAdapter">
-	<summary>
-Represents the connection and commands used to retrieve and save data.
-</summary>
-</member><member name="T:CasaEsther.CasaEstherDataSet4TableAdapters.ReporteCompraPorProveedorTableAdapter">
-	<summary>
-Represents the connection and commands used to retrieve and save data.
-</summary>
-</member><member name="T:CasaEsther.CasaEstherDataSet4TableAdapters.ReporteVentaPorEmpleadoTableAdapter">
-	<summary>
-Represents the connection and commands used to retrieve and save data.
-</summary>
-</member><member name="T:CasaEsther.CasaEstherDataSet4TableAdapters.ReporteVentaPorPeriodoTableAdapter">
-	<summary>
-Represents the connection and commands used to retrieve and save data.
-</summary>
-</member><member name="T:CasaEsther.CasaEstherDataSet4TableAdapters.ReporteApartadoPorClienteEnUnPeriodoTableAdapter">
-	<summary>
-Represents the connection and commands used to retrieve and save data.
-</summary>
-</member><member name="T:CasaEsther.CasaEstherDataSet4TableAdapters.ArticuloTableAdapter">
-	<summary>
-Represents the connection and commands used to retrieve and save data.
-</summary>
-</member><member name="M:CasaEsther.CasaEstherDataSet4TableAdapters.TableAdapterManager.UpdateUpdatedRows(CasaEsther.CasaEstherDataSet4,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
-	<summary>
-Update rows in top-down order.
-</summary>
-</member><member name="M:CasaEsther.CasaEstherDataSet4TableAdapters.TableAdapterManager.UpdateInsertedRows(CasaEsther.CasaEstherDataSet4,System.Collections.Generic.List{System.Data.DataRow})">
-	<summary>
-Insert rows in top-down order.
-</summary>
-</member><member name="M:CasaEsther.CasaEstherDataSet4TableAdapters.TableAdapterManager.UpdateDeletedRows(CasaEsther.CasaEstherDataSet4,System.Collections.Generic.List{System.Data.DataRow})">
-	<summary>
-Delete rows in bottom-up order.
-</summary>
-</member><member name="M:CasaEsther.CasaEstherDataSet4TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
-	<summary>
-Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
-</summary>
-</member><member name="M:CasaEsther.CasaEstherDataSet4TableAdapters.TableAdapterManager.UpdateAll(CasaEsther.CasaEstherDataSet4)">
-	<summary>
-Update all changes to the dataset.
-</summary>
-</member><member name="T:CasaEsther.CasaEstherDataSet4TableAdapters.TableAdapterManager.UpdateOrderOption">
-	<summary>
-Update Order Option
-</summary>
-</member><member name="T:CasaEsther.CasaEstherDataSet4TableAdapters.TableAdapterManager.SelfReferenceComparer">
-	<summary>
-Used to sort self-referenced table's rows
-</summary>
-</member><member name="T:CasaEsther.CasaEstherDataSet4TableAdapters.TableAdapterManager">
-	<summary>
-TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
-</summary>
-</member><member name="T:CasaEsther.CasaEstherDataSet1.UsuarioDataTable">
-	<summary>
+</member>
+<member name="T:CasaEsther.CasaEstherDataSet1.UsuarioDataTable">
+<summary>
 Represents the strongly named DataTable class.
 </summary>
-</member><member name="T:CasaEsther.CasaEstherDataSet1.UsuarioRow">
-	<summary>
+</member>
+<member name="T:CasaEsther.CasaEstherDataSet1.UsuarioRow">
+<summary>
 Represents strongly named DataRow class.
 </summary>
-</member><member name="T:CasaEsther.CasaEstherDataSet1.UsuarioRowChangeEvent">
-	<summary>
+</member>
+<member name="T:CasaEsther.CasaEstherDataSet1.UsuarioRowChangeEvent">
+<summary>
 Row event argument class
 </summary>
-</member><member name="T:CasaEsther.CasaEstherDataSet1">
-	<summary>
-Represents a strongly typed in-memory cache of data.
-</summary>
-</member><member name="T:CasaEsther.CasaEstherDataSet1TableAdapters.UsuarioTableAdapter">
-	<summary>
+</member>
+<member name="T:CasaEsther.CasaEstherDataSet1TableAdapters.UsuarioTableAdapter">
+<summary>
 Represents the connection and commands used to retrieve and save data.
 </summary>
-</member><member name="M:CasaEsther.CasaEstherDataSet1TableAdapters.TableAdapterManager.UpdateUpdatedRows(CasaEsther.CasaEstherDataSet1,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
-	<summary>
-Update rows in top-down order.
-</summary>
-</member><member name="M:CasaEsther.CasaEstherDataSet1TableAdapters.TableAdapterManager.UpdateInsertedRows(CasaEsther.CasaEstherDataSet1,System.Collections.Generic.List{System.Data.DataRow})">
-	<summary>
-Insert rows in top-down order.
-</summary>
-</member><member name="M:CasaEsther.CasaEstherDataSet1TableAdapters.TableAdapterManager.UpdateDeletedRows(CasaEsther.CasaEstherDataSet1,System.Collections.Generic.List{System.Data.DataRow})">
-	<summary>
-Delete rows in bottom-up order.
-</summary>
-</member><member name="M:CasaEsther.CasaEstherDataSet1TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
-	<summary>
-Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
-</summary>
-</member><member name="M:CasaEsther.CasaEstherDataSet1TableAdapters.TableAdapterManager.UpdateAll(CasaEsther.CasaEstherDataSet1)">
-	<summary>
-Update all changes to the dataset.
-</summary>
-</member><member name="T:CasaEsther.CasaEstherDataSet1TableAdapters.TableAdapterManager.UpdateOrderOption">
-	<summary>
-Update Order Option
-</summary>
-</member><member name="T:CasaEsther.CasaEstherDataSet1TableAdapters.TableAdapterManager.SelfReferenceComparer">
-	<summary>
-Used to sort self-referenced table's rows
-</summary>
-</member><member name="T:CasaEsther.CasaEstherDataSet1TableAdapters.TableAdapterManager">
-	<summary>
+</member>
+<member name="T:CasaEsther.CasaEstherDataSet1TableAdapters.TableAdapterManager">
+<summary>
 TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
 </summary>
-</member><member name="T:CasaEsther.CasaEstherDataSet3.AbonoDataTable">
-	<summary>
+</member>
+<member name="M:CasaEsther.CasaEstherDataSet1TableAdapters.TableAdapterManager.UpdateUpdatedRows(CasaEsther.CasaEstherDataSet1,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:CasaEsther.CasaEstherDataSet1TableAdapters.TableAdapterManager.UpdateInsertedRows(CasaEsther.CasaEstherDataSet1,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:CasaEsther.CasaEstherDataSet1TableAdapters.TableAdapterManager.UpdateDeletedRows(CasaEsther.CasaEstherDataSet1,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:CasaEsther.CasaEstherDataSet1TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:CasaEsther.CasaEstherDataSet1TableAdapters.TableAdapterManager.UpdateAll(CasaEsther.CasaEstherDataSet1)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:CasaEsther.CasaEstherDataSet1TableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:CasaEsther.CasaEstherDataSet1TableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="T:CasaEsther.CasaEstherDataSet2">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:CasaEsther.CasaEstherDataSet2.AbonoDataTable">
+<summary>
 Represents the strongly named DataTable class.
 </summary>
-</member><member name="T:CasaEsther.CasaEstherDataSet3.AbonoRow">
-	<summary>
+</member>
+<member name="T:CasaEsther.CasaEstherDataSet2.ApartadoDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:CasaEsther.CasaEstherDataSet2.ArticuloDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:CasaEsther.CasaEstherDataSet2.CategoriaDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:CasaEsther.CasaEstherDataSet2.CompraArticuloDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:CasaEsther.CasaEstherDataSet2.DetalleVentaDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:CasaEsther.CasaEstherDataSet2.DetApartadoDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:CasaEsther.CasaEstherDataSet2.DetCompraArticuloDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:CasaEsther.CasaEstherDataSet2.EmpleadoDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:CasaEsther.CasaEstherDataSet2.ModeloDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:CasaEsther.CasaEstherDataSet2.ProveedorDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:CasaEsther.CasaEstherDataSet2.UsuarioDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:CasaEsther.CasaEstherDataSet2.VentaDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:CasaEsther.CasaEstherDataSet2.AbonoRow">
+<summary>
 Represents strongly named DataRow class.
 </summary>
-</member><member name="T:CasaEsther.CasaEstherDataSet3.AbonoRowChangeEvent">
-	<summary>
+</member>
+<member name="T:CasaEsther.CasaEstherDataSet2.ApartadoRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:CasaEsther.CasaEstherDataSet2.ArticuloRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:CasaEsther.CasaEstherDataSet2.CategoriaRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:CasaEsther.CasaEstherDataSet2.CompraArticuloRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:CasaEsther.CasaEstherDataSet2.DetalleVentaRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:CasaEsther.CasaEstherDataSet2.DetApartadoRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:CasaEsther.CasaEstherDataSet2.DetCompraArticuloRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:CasaEsther.CasaEstherDataSet2.EmpleadoRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:CasaEsther.CasaEstherDataSet2.ModeloRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:CasaEsther.CasaEstherDataSet2.ProveedorRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:CasaEsther.CasaEstherDataSet2.UsuarioRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:CasaEsther.CasaEstherDataSet2.VentaRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:CasaEsther.CasaEstherDataSet2.AbonoRowChangeEvent">
+<summary>
 Row event argument class
 </summary>
-</member><member name="T:CasaEsther.CasaEstherDataSet3">
-	<summary>
-Represents a strongly typed in-memory cache of data.
+</member>
+<member name="T:CasaEsther.CasaEstherDataSet2.ApartadoRowChangeEvent">
+<summary>
+Row event argument class
 </summary>
-</member><member name="T:CasaEsther.CasaEstherDataSet3TableAdapters.AbonoTableAdapter">
-	<summary>
+</member>
+<member name="T:CasaEsther.CasaEstherDataSet2.ArticuloRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:CasaEsther.CasaEstherDataSet2.CategoriaRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:CasaEsther.CasaEstherDataSet2.CompraArticuloRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:CasaEsther.CasaEstherDataSet2.DetalleVentaRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:CasaEsther.CasaEstherDataSet2.DetApartadoRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:CasaEsther.CasaEstherDataSet2.DetCompraArticuloRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:CasaEsther.CasaEstherDataSet2.EmpleadoRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:CasaEsther.CasaEstherDataSet2.ModeloRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:CasaEsther.CasaEstherDataSet2.ProveedorRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:CasaEsther.CasaEstherDataSet2.UsuarioRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:CasaEsther.CasaEstherDataSet2.VentaRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:CasaEsther.CasaEstherDataSet2TableAdapters.AbonoTableAdapter">
+<summary>
 Represents the connection and commands used to retrieve and save data.
 </summary>
-</member><member name="M:CasaEsther.CasaEstherDataSet3TableAdapters.TableAdapterManager.UpdateUpdatedRows(CasaEsther.CasaEstherDataSet3,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
-	<summary>
+</member>
+<member name="T:CasaEsther.CasaEstherDataSet2TableAdapters.ApartadoTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:CasaEsther.CasaEstherDataSet2TableAdapters.ArticuloTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:CasaEsther.CasaEstherDataSet2TableAdapters.CategoriaTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:CasaEsther.CasaEstherDataSet2TableAdapters.CompraArticuloTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:CasaEsther.CasaEstherDataSet2TableAdapters.DetalleVentaTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:CasaEsther.CasaEstherDataSet2TableAdapters.DetApartadoTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:CasaEsther.CasaEstherDataSet2TableAdapters.DetCompraArticuloTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:CasaEsther.CasaEstherDataSet2TableAdapters.EmpleadoTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:CasaEsther.CasaEstherDataSet2TableAdapters.ModeloTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:CasaEsther.CasaEstherDataSet2TableAdapters.ProveedorTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:CasaEsther.CasaEstherDataSet2TableAdapters.UsuarioTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:CasaEsther.CasaEstherDataSet2TableAdapters.VentaTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:CasaEsther.CasaEstherDataSet2TableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:CasaEsther.CasaEstherDataSet2TableAdapters.TableAdapterManager.UpdateUpdatedRows(CasaEsther.CasaEstherDataSet2,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
 Update rows in top-down order.
 </summary>
-</member><member name="M:CasaEsther.CasaEstherDataSet3TableAdapters.TableAdapterManager.UpdateInsertedRows(CasaEsther.CasaEstherDataSet3,System.Collections.Generic.List{System.Data.DataRow})">
-	<summary>
+</member>
+<member name="M:CasaEsther.CasaEstherDataSet2TableAdapters.TableAdapterManager.UpdateInsertedRows(CasaEsther.CasaEstherDataSet2,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
 Insert rows in top-down order.
 </summary>
-</member><member name="M:CasaEsther.CasaEstherDataSet3TableAdapters.TableAdapterManager.UpdateDeletedRows(CasaEsther.CasaEstherDataSet3,System.Collections.Generic.List{System.Data.DataRow})">
-	<summary>
+</member>
+<member name="M:CasaEsther.CasaEstherDataSet2TableAdapters.TableAdapterManager.UpdateDeletedRows(CasaEsther.CasaEstherDataSet2,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
 Delete rows in bottom-up order.
 </summary>
-</member><member name="M:CasaEsther.CasaEstherDataSet3TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
-	<summary>
+</member>
+<member name="M:CasaEsther.CasaEstherDataSet2TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
 Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
 </summary>
-</member><member name="M:CasaEsther.CasaEstherDataSet3TableAdapters.TableAdapterManager.UpdateAll(CasaEsther.CasaEstherDataSet3)">
-	<summary>
+</member>
+<member name="M:CasaEsther.CasaEstherDataSet2TableAdapters.TableAdapterManager.UpdateAll(CasaEsther.CasaEstherDataSet2)">
+<summary>
 Update all changes to the dataset.
 </summary>
-</member><member name="T:CasaEsther.CasaEstherDataSet3TableAdapters.TableAdapterManager.UpdateOrderOption">
-	<summary>
+</member>
+<member name="T:CasaEsther.CasaEstherDataSet2TableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
 Update Order Option
 </summary>
-</member><member name="T:CasaEsther.CasaEstherDataSet3TableAdapters.TableAdapterManager.SelfReferenceComparer">
-	<summary>
+</member>
+<member name="T:CasaEsther.CasaEstherDataSet2TableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
 Used to sort self-referenced table's rows
 </summary>
-</member><member name="T:CasaEsther.CasaEstherDataSet3TableAdapters.TableAdapterManager">
-	<summary>
+</member>
+<member name="T:CasaEsther.CasaEstherDataSet3">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:CasaEsther.CasaEstherDataSet3.AbonoDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:CasaEsther.CasaEstherDataSet3.AbonoRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:CasaEsther.CasaEstherDataSet3.AbonoRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:CasaEsther.CasaEstherDataSet3TableAdapters.AbonoTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:CasaEsther.CasaEstherDataSet3TableAdapters.TableAdapterManager">
+<summary>
 TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:CasaEsther.CasaEstherDataSet3TableAdapters.TableAdapterManager.UpdateUpdatedRows(CasaEsther.CasaEstherDataSet3,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:CasaEsther.CasaEstherDataSet3TableAdapters.TableAdapterManager.UpdateInsertedRows(CasaEsther.CasaEstherDataSet3,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:CasaEsther.CasaEstherDataSet3TableAdapters.TableAdapterManager.UpdateDeletedRows(CasaEsther.CasaEstherDataSet3,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:CasaEsther.CasaEstherDataSet3TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:CasaEsther.CasaEstherDataSet3TableAdapters.TableAdapterManager.UpdateAll(CasaEsther.CasaEstherDataSet3)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:CasaEsther.CasaEstherDataSet3TableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:CasaEsther.CasaEstherDataSet3TableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="T:CasaEsther.CasaEstherDataSet4">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:CasaEsther.CasaEstherDataSet4.AbonoDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:CasaEsther.CasaEstherDataSet4.ApartadoDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:CasaEsther.CasaEstherDataSet4.CategoriaDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:CasaEsther.CasaEstherDataSet4.ClienteDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:CasaEsther.CasaEstherDataSet4.CompraArticuloDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:CasaEsther.CasaEstherDataSet4.DetalleVentaDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:CasaEsther.CasaEstherDataSet4.DetApartadoDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:CasaEsther.CasaEstherDataSet4.DetCompraArticuloDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:CasaEsther.CasaEstherDataSet4.EmpleadoDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:CasaEsther.CasaEstherDataSet4.ModeloDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:CasaEsther.CasaEstherDataSet4.ProveedorDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:CasaEsther.CasaEstherDataSet4.UsuarioDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:CasaEsther.CasaEstherDataSet4.VentaDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:CasaEsther.CasaEstherDataSet4.REPORTEEMPLEADOSDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:CasaEsther.CasaEstherDataSet4.REPORTEARTICULOSDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:CasaEsther.CasaEstherDataSet4.REPORTECLIENTESDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:CasaEsther.CasaEstherDataSet4.REPORTEPROVEEDORESDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:CasaEsther.CasaEstherDataSet4.ReporteApartadoPorClienteDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:CasaEsther.CasaEstherDataSet4.ReporteApartadoPorPeriodoDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:CasaEsther.CasaEstherDataSet4.ReporteCompraPorPeriodoDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:CasaEsther.CasaEstherDataSet4.ReporteCompraPorProveedorDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:CasaEsther.CasaEstherDataSet4.ReporteVentaPorEmpleadoDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:CasaEsther.CasaEstherDataSet4.ReporteVentaPorPeriodoDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:CasaEsther.CasaEstherDataSet4.ReporteApartadoPorClienteEnUnPeriodoDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:CasaEsther.CasaEstherDataSet4.ArticuloDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:CasaEsther.CasaEstherDataSet4.AbonoRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:CasaEsther.CasaEstherDataSet4.ApartadoRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:CasaEsther.CasaEstherDataSet4.CategoriaRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:CasaEsther.CasaEstherDataSet4.ClienteRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:CasaEsther.CasaEstherDataSet4.CompraArticuloRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:CasaEsther.CasaEstherDataSet4.DetalleVentaRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:CasaEsther.CasaEstherDataSet4.DetApartadoRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:CasaEsther.CasaEstherDataSet4.DetCompraArticuloRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:CasaEsther.CasaEstherDataSet4.EmpleadoRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:CasaEsther.CasaEstherDataSet4.ModeloRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:CasaEsther.CasaEstherDataSet4.ProveedorRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:CasaEsther.CasaEstherDataSet4.UsuarioRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:CasaEsther.CasaEstherDataSet4.VentaRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:CasaEsther.CasaEstherDataSet4.REPORTEEMPLEADOSRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:CasaEsther.CasaEstherDataSet4.REPORTEARTICULOSRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:CasaEsther.CasaEstherDataSet4.REPORTECLIENTESRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:CasaEsther.CasaEstherDataSet4.REPORTEPROVEEDORESRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:CasaEsther.CasaEstherDataSet4.ReporteApartadoPorClienteRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:CasaEsther.CasaEstherDataSet4.ReporteApartadoPorPeriodoRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:CasaEsther.CasaEstherDataSet4.ReporteCompraPorPeriodoRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:CasaEsther.CasaEstherDataSet4.ReporteCompraPorProveedorRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:CasaEsther.CasaEstherDataSet4.ReporteVentaPorEmpleadoRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:CasaEsther.CasaEstherDataSet4.ReporteVentaPorPeriodoRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:CasaEsther.CasaEstherDataSet4.ReporteApartadoPorClienteEnUnPeriodoRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:CasaEsther.CasaEstherDataSet4.ArticuloRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:CasaEsther.CasaEstherDataSet4.AbonoRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:CasaEsther.CasaEstherDataSet4.ApartadoRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:CasaEsther.CasaEstherDataSet4.CategoriaRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:CasaEsther.CasaEstherDataSet4.ClienteRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:CasaEsther.CasaEstherDataSet4.CompraArticuloRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:CasaEsther.CasaEstherDataSet4.DetalleVentaRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:CasaEsther.CasaEstherDataSet4.DetApartadoRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:CasaEsther.CasaEstherDataSet4.DetCompraArticuloRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:CasaEsther.CasaEstherDataSet4.EmpleadoRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:CasaEsther.CasaEstherDataSet4.ModeloRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:CasaEsther.CasaEstherDataSet4.ProveedorRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:CasaEsther.CasaEstherDataSet4.UsuarioRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:CasaEsther.CasaEstherDataSet4.VentaRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:CasaEsther.CasaEstherDataSet4.REPORTEEMPLEADOSRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:CasaEsther.CasaEstherDataSet4.REPORTEARTICULOSRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:CasaEsther.CasaEstherDataSet4.REPORTECLIENTESRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:CasaEsther.CasaEstherDataSet4.REPORTEPROVEEDORESRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:CasaEsther.CasaEstherDataSet4.ReporteApartadoPorClienteRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:CasaEsther.CasaEstherDataSet4.ReporteApartadoPorPeriodoRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:CasaEsther.CasaEstherDataSet4.ReporteCompraPorPeriodoRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:CasaEsther.CasaEstherDataSet4.ReporteCompraPorProveedorRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:CasaEsther.CasaEstherDataSet4.ReporteVentaPorEmpleadoRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:CasaEsther.CasaEstherDataSet4.ReporteVentaPorPeriodoRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:CasaEsther.CasaEstherDataSet4.ReporteApartadoPorClienteEnUnPeriodoRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:CasaEsther.CasaEstherDataSet4.ArticuloRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:CasaEsther.CasaEstherDataSet4TableAdapters.AbonoTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:CasaEsther.CasaEstherDataSet4TableAdapters.ApartadoTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:CasaEsther.CasaEstherDataSet4TableAdapters.CategoriaTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:CasaEsther.CasaEstherDataSet4TableAdapters.ClienteTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:CasaEsther.CasaEstherDataSet4TableAdapters.CompraArticuloTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:CasaEsther.CasaEstherDataSet4TableAdapters.DetalleVentaTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:CasaEsther.CasaEstherDataSet4TableAdapters.DetApartadoTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:CasaEsther.CasaEstherDataSet4TableAdapters.DetCompraArticuloTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:CasaEsther.CasaEstherDataSet4TableAdapters.EmpleadoTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:CasaEsther.CasaEstherDataSet4TableAdapters.ModeloTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:CasaEsther.CasaEstherDataSet4TableAdapters.ProveedorTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:CasaEsther.CasaEstherDataSet4TableAdapters.UsuarioTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:CasaEsther.CasaEstherDataSet4TableAdapters.VentaTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:CasaEsther.CasaEstherDataSet4TableAdapters.REPORTEEMPLEADOSTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:CasaEsther.CasaEstherDataSet4TableAdapters.REPORTEARTICULOSTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:CasaEsther.CasaEstherDataSet4TableAdapters.REPORTECLIENTESTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:CasaEsther.CasaEstherDataSet4TableAdapters.REPORTEPROVEEDORESTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:CasaEsther.CasaEstherDataSet4TableAdapters.ReporteApartadoPorClienteTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:CasaEsther.CasaEstherDataSet4TableAdapters.ReporteApartadoPorPeriodoTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:CasaEsther.CasaEstherDataSet4TableAdapters.ReporteCompraPorPeriodoTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:CasaEsther.CasaEstherDataSet4TableAdapters.ReporteCompraPorProveedorTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:CasaEsther.CasaEstherDataSet4TableAdapters.ReporteVentaPorEmpleadoTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:CasaEsther.CasaEstherDataSet4TableAdapters.ReporteVentaPorPeriodoTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:CasaEsther.CasaEstherDataSet4TableAdapters.ReporteApartadoPorClienteEnUnPeriodoTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:CasaEsther.CasaEstherDataSet4TableAdapters.ArticuloTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:CasaEsther.CasaEstherDataSet4TableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:CasaEsther.CasaEstherDataSet4TableAdapters.TableAdapterManager.UpdateUpdatedRows(CasaEsther.CasaEstherDataSet4,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:CasaEsther.CasaEstherDataSet4TableAdapters.TableAdapterManager.UpdateInsertedRows(CasaEsther.CasaEstherDataSet4,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:CasaEsther.CasaEstherDataSet4TableAdapters.TableAdapterManager.UpdateDeletedRows(CasaEsther.CasaEstherDataSet4,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:CasaEsther.CasaEstherDataSet4TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:CasaEsther.CasaEstherDataSet4TableAdapters.TableAdapterManager.UpdateAll(CasaEsther.CasaEstherDataSet4)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:CasaEsther.CasaEstherDataSet4TableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:CasaEsther.CasaEstherDataSet4TableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="T:CasaEsther.CasaEstherDataSet">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:CasaEsther.CasaEstherDataSet.ArticuloDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:CasaEsther.CasaEstherDataSet.CategoriaDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:CasaEsther.CasaEstherDataSet.CompraArticuloDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:CasaEsther.CasaEstherDataSet.DetalleVentaDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:CasaEsther.CasaEstherDataSet.DetCompraArticuloDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:CasaEsther.CasaEstherDataSet.EmpleadoDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:CasaEsther.CasaEstherDataSet.ModeloDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:CasaEsther.CasaEstherDataSet.ProveedorDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:CasaEsther.CasaEstherDataSet.VentaDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:CasaEsther.CasaEstherDataSet.Empleado1DataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:CasaEsther.CasaEstherDataSet.ArticuloRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:CasaEsther.CasaEstherDataSet.CategoriaRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:CasaEsther.CasaEstherDataSet.CompraArticuloRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:CasaEsther.CasaEstherDataSet.DetalleVentaRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:CasaEsther.CasaEstherDataSet.DetCompraArticuloRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:CasaEsther.CasaEstherDataSet.EmpleadoRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:CasaEsther.CasaEstherDataSet.ModeloRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:CasaEsther.CasaEstherDataSet.ProveedorRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:CasaEsther.CasaEstherDataSet.VentaRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:CasaEsther.CasaEstherDataSet.Empleado1Row">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:CasaEsther.CasaEstherDataSet.ArticuloRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:CasaEsther.CasaEstherDataSet.CategoriaRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:CasaEsther.CasaEstherDataSet.CompraArticuloRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:CasaEsther.CasaEstherDataSet.DetalleVentaRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:CasaEsther.CasaEstherDataSet.DetCompraArticuloRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:CasaEsther.CasaEstherDataSet.EmpleadoRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:CasaEsther.CasaEstherDataSet.ModeloRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:CasaEsther.CasaEstherDataSet.ProveedorRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:CasaEsther.CasaEstherDataSet.VentaRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:CasaEsther.CasaEstherDataSet.Empleado1RowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:CasaEsther.CasaEstherDataSetTableAdapters.ArticuloTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:CasaEsther.CasaEstherDataSetTableAdapters.CategoriaTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:CasaEsther.CasaEstherDataSetTableAdapters.CompraArticuloTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:CasaEsther.CasaEstherDataSetTableAdapters.DetalleVentaTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:CasaEsther.CasaEstherDataSetTableAdapters.DetCompraArticuloTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:CasaEsther.CasaEstherDataSetTableAdapters.EmpleadoTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:CasaEsther.CasaEstherDataSetTableAdapters.ModeloTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:CasaEsther.CasaEstherDataSetTableAdapters.ProveedorTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:CasaEsther.CasaEstherDataSetTableAdapters.VentaTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:CasaEsther.CasaEstherDataSetTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:CasaEsther.CasaEstherDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(CasaEsther.CasaEstherDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:CasaEsther.CasaEstherDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(CasaEsther.CasaEstherDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:CasaEsther.CasaEstherDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(CasaEsther.CasaEstherDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:CasaEsther.CasaEstherDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:CasaEsther.CasaEstherDataSetTableAdapters.TableAdapterManager.UpdateAll(CasaEsther.CasaEstherDataSet)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:CasaEsther.CasaEstherDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:CasaEsther.CasaEstherDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
 </summary>
 </member>
 </members>

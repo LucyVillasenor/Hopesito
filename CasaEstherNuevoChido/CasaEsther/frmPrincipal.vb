@@ -44,8 +44,16 @@ Public Class frmPrincipal
     Private Sub frmPrincipal_Load(sender As Object, e As EventArgs) Handles MyBase.Load
         If usuario = "admin" Then
             UsuariosToolStripMenuItem.Visible = True
+            UtileriasToolStripMenuItem.Visible = True
+            ReportesToolStripMenuItem.Visible = True
+        ElseIf usuario = "Gerente" Then
+            UsuariosToolStripMenuItem.Visible = True
+            ReportesToolStripMenuItem.Visible = True
+            UtileriasToolStripMenuItem.Visible = False
         Else
-            UsuariosToolStripMenuItem.Visible = False
+            CatalogosToolStripMenuItem.Visible = False
+            UtileriasToolStripMenuItem.Visible = False
+            ReportesToolStripMenuItem.Visible = False
         End If
     End Sub
 
@@ -192,5 +200,12 @@ Public Class frmPrincipal
 
     Private Sub TraspasoAHistoricosToolStripMenuItem_Click(sender As Object, e As EventArgs) Handles TraspasoAHistoricosToolStripMenuItem.Click
         frmHistoricos.ShowDialog()
+    End Sub
+
+    Private Sub CerrarSesiónToolStripMenuItem_Click(sender As Object, e As EventArgs) Handles CerrarSesiónToolStripMenuItem.Click
+        usuario = ""
+        contrasena = ""
+        Me.Close()
+        login.Show()
     End Sub
 End Class
